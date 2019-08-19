@@ -5,7 +5,7 @@
 </head>
     <body>
 
-    <h2>Kumpulan CV Anak Magang</h2>
+    <h2 align="center">Daftar CV Karyawan Magang 2019</h2>
 
     <table>
         <tr>
