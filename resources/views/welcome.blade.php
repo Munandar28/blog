@@ -20,8 +20,8 @@
             <td><p>1. Big Data Exploration</p>
                 <p>2. CellCom Malaysia</p>
                 <p>3. OSS Project</p>
-                <p>4. Redsite Project</p></td>
-                <p>5. Data Analytics (PT Pupuk Indonesia)</p>
+                <p>4. Redsite Project</p>
+                <p>5. Data Analytics (PT Pupuk Indonesia)</p></td>
             <td><p>1. Google Drive</p>
                 <p>2. Navicat</p>
                 <p>3. SSH-Client(PuTTY)</p>
@@ -162,7 +162,7 @@
         
         <tr>
             <td>Bagas Kuncoro</td>
-            <td><p>3. Rekonsiliasi Payment Muslim Pocket</p>
+            <td><p>1. Rekonsiliasi Payment Muslim Pocket</p>
             <td><p>1. Postman</p>
                 <p>2. Visual Studio Code</p>
                 <p>3. Navicat</p>
