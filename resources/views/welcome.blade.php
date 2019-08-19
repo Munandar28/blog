@@ -56,7 +56,7 @@
 
         <tr>
             <td>Chalvin Dinata</td>
-            <td><p>1. Rekonsiliasi Payment Muslim Pocket</p>>
+            <td><p>1. Rekonsiliasi Payment Muslim Pocket</p>
             <td><p>1. Visual Studio Code</p>
                 <p>2. Navicat</p>
             <td><a href="/assets/Chalvin's Resume.pdf">example 101</a></td>
@@ -279,7 +279,6 @@
                 <p>2. Jupyter Notebook</p>
             <td><a href="/assets/Krisna Fernando.pdf">Resume</a></td>
         </tr>
-        
 
     </table>
     </body>
