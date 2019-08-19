@@ -280,13 +280,6 @@
             <td><a href="/assets/Krisna Fernando.pdf">Resume</a></td>
         </tr>
         
-        <tr>
-            <td>Muhammad Farid Wajidi</td>
-            <td><p>1. Incubator : Muslim Pocket</p>
-            <td><p>1. Trello Scrum</p>
-                <p>2. Google Drive</p>
-            <td><a href="/assets/Aulia's Resume.pdf">Resume</a></td>
-        </tr>
 
     </table>
     </body>
