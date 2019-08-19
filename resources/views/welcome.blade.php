@@ -31,7 +31,7 @@
                 <p>7. FileZilla</p>
                 <p>8. Hadoop Hortonworks</p>
                 <p>9. Visual Code</p></td>
-            <td><button type="button"><a href="/assets/Kevin's Resume.pdf">example 101</button></a></td>
+            <td><button type="button"><a href="/assets/Kevin's Resume.pdf">Resume</button></a></td>
         </tr>
         
         <tr>
@@ -42,7 +42,7 @@
                 <p>4. Redsite Project</p></td>
             <td><p>1. Google Drive</p>
                 <p>2. Hadoop Hortonworks</p>
-            <td><a href="/assets/Muhamad Fadel - cv.pdf">example 101</a></td>
+            <td><a href="/assets/Muhamad Fadel - cv.pdf">Resume</a></td>
         </tr>
 
         <tr>
@@ -51,7 +51,7 @@
                 <p>2. Rekonsiliasi Payment Muslim Pocket</p>
             <td><p>1. Visual Studio Code</p>
                 <p>2. Navicat</p>
-            <td><a href="/assets/Maykel's Resume(1).pdf">example 101</a></td>
+            <td><a href="/assets/Maykel's Resume(1).pdf">Resume</a></td>
         </tr>
 
         <tr>
@@ -59,7 +59,7 @@
             <td><p>1. Rekonsiliasi Payment Muslim Pocket</p>
             <td><p>1. Visual Studio Code</p>
                 <p>2. Navicat</p>
-            <td><a href="/assets/Chalvin's Resume.pdf">example 101</a></td>
+            <td><a href="/assets/Chalvin's Resume.pdf">Resume</a></td>
         </tr>
 
         <tr>
