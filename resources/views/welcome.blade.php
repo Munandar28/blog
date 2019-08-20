@@ -178,7 +178,7 @@
             <td><p>1. Android Studio</p>
                 <p>2. Visual Studio Code</p>
                 <p>3. Navicat</p>
-            <td><a href="/assets/hestiara-agatha-cv.pdf">Resume</a></td>
+            <td><a href="/assets/hestiara-agatha-cv-resized.pdf">Resume</a></td>
         </tr>
         
         <tr>
@@ -212,7 +212,7 @@
                 <p>3. Navicat</p>
                 <p>4. Terminal</p>
                 <p>5. GitLab / GitHub</p>
-            <td><a href="/assets/CV Adrian Hartanto.jpg">Resume</a></td>
+            <td><a href="/assets/CV Adrian Hartanto.pdf">Resume</a></td>
         </tr>
         
         <tr>
