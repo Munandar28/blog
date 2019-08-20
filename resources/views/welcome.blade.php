@@ -6,7 +6,7 @@
     <body>
 
     <h2 align="center">Daftar CV Karyawan Magang 2019</h2>
-
+    
     <table>
         <tr>
             <th>Nama</th>
