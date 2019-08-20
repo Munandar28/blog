@@ -40,6 +40,7 @@
                 <p>2. CellCom Malaysia</p>
                 <p>3. OSS Project</p>
                 <p>4. Redsite Project</p></td>
+                <p>5. Data Analytics (PT Pupuk Indonesia)</p>
             <td><p>1. Google Drive</p>
                 <p>2. Hadoop Hortonworks</p>
             <td><a href="/assets/Muhamad Fadel - cv.pdf">Resume</a></td>
