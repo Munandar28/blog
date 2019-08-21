@@ -22,7 +22,7 @@
                 <p>3. OSS Project</p>
                 <p>4. Redsite Project</p>
                 <p>5. Data Analytics (PT Pupuk Indonesia)</p></td>
-            <td><p>1. Google Drive</p>
+            <td><p>1. Visual Studio Code</p>
                 <p>2. Navicat</p>
                 <p>3. SSH-Client(PuTTY)</p>
                 <p>4. Postgresql</p>
@@ -30,8 +30,8 @@
                 <p>6. MapInfo</p>
                 <p>7. FileZilla</p>
                 <p>8. Hadoop Hortonworks</p>
-                <p>9. Visual Code</p></td>
-            <td><button type="button"><a href="/assets/Kevin's Resume.pdf">Resume</button></a></td>
+                <p>9. Google Drive</p></td>
+            <td><a href="/assets/Kevin's Resume.pdf">Resume</a></td>
         </tr>
         
         <tr>
@@ -41,8 +41,8 @@
                 <p>3. OSS Project</p>
                 <p>4. Redsite Project</p>
                 <p>5. Data Analytics (PT Pupuk Indonesia)</p></td>
-            <td><p>1. Google Drive</p>
-                <p>2. Hadoop Hortonworks</p>
+            <td><p>1. Hadoop Hortonworks</p>
+                <p>2. Google Drive</p>
             <td><a href="/assets/Muhamad Fadel - cv.pdf">Resume</a></td>
         </tr>
 
@@ -110,7 +110,7 @@
             <td><p>1. Xcode</p>
                 <p>2. Google Drive</p>
                 <p>3. Immobi Tracker</p>
-            <td><a href="/assets/Justin's Resume.pdf">Resume</a></td>
+            <td><a href="/assets/Justin's Resume.pdf">Resume</a> </td>
         </tr>
 
         <tr>
@@ -120,7 +120,7 @@
             <td><p>1. Xcode</p>
                 <p>2. Google Drive</p>
                 <p>3. Immobi Tracker</p>
-            <!-- <td><a href="/assets/CV_Muhammad_fardiansyah.pdf">Resume</a></td> -->
+            <!-- <td><a href="/assets/CV_Muhammad_fardiansyah.pdf">Resume</a> </td> -->
         </tr>
         
         <tr>
@@ -134,7 +134,7 @@
                 <p>3. Navicat</p>
                 <p>4. Terminal</p>
                 <p>5. GitLab / GitHub</p>
-            <td><a href="/assets/Cv_akbar2019.pdf">Resume</a></td>
+            <td> <a href="/assets/Cv_akbar2019.pdf">Resume</a> </td>
         </tr>
         
         <tr>
@@ -145,7 +145,7 @@
             <td><p>1. Trello Scrum</p>
                 <p>2. Immobi Tracker</p>
                 <p>3. Google Drive</p>
-            <td><a href="/assets/CV-Aditya Pradipta.pdf">Resume</a></td>
+            <td> <a href="/assets/CV-Aditya Pradipta.pdf">Resume</a> </td>
         </tr>
         
         <tr>
@@ -158,7 +158,7 @@
                 <p>3. Navicat</p>
                 <p>4. Terminal</p>
                 <p>5. GitLab / GitHub</p>
-            <td><a href="/assets/Bob's Resume.pdf">Resume</a></td>
+            <td> <a href="/assets/Bob's Resume.pdf">Resume</a> </td>
         </tr>
         
         <tr>
@@ -169,7 +169,7 @@
                 <p>3. Navicat</p>
                 <p>4. Terminal</p>
                 <p>5. GitLab / GitHub</p>
-            <td><a href="/assets/CV BAGAS.pdf">Resume</a></td>
+            <td> <a href="/assets/CV BAGAS.pdf">Resume</a> </td>
         </tr>
         
         <tr>
@@ -179,7 +179,7 @@
             <td><p>1. Android Studio</p>
                 <p>2. Visual Studio Code</p>
                 <p>3. Navicat</p>
-            <td><a href="/assets/hestiara-agatha-cv-resized.pdf">Resume</a></td>
+            <td> <a href="/assets/hestiara-agatha-cv-resized.pdf">Resume</a> </td>
         </tr>
         
         <tr>
@@ -192,7 +192,7 @@
                 <p>4. Terminal</p>
                 <p>5. GitLab / GitHub</p>
                 <p>6. Xcode</p>
-            <td><a href="/assets/Cv_Mohammad_Alhafidz_Permana_Baskoro.pdf">Resume</a></td>
+            <td> <a href="/assets/Cv_Mohammad_Alhafidz_Permana_Baskoro.pdf">Resume</a> </td>
         </tr>
         
         <tr>
@@ -201,7 +201,7 @@
                 <p>2. Rating Karyawan(Android)</p></p>
             <td><p>1. Android Studio</p>
                 <p>2. Visual Studio Code</p>
-            <td><a href="/assets/Andri's Resume (1).pdf">Resume</a></td>
+            <td> <a href="/assets/Andri's Resume (1).pdf">Resume</a> </td>
         </tr>
         
         <tr>
@@ -213,7 +213,7 @@
                 <p>3. Navicat</p>
                 <p>4. Terminal</p>
                 <p>5. GitLab / GitHub</p>
-            <td><a href="/assets/CV Adrian Hartanto.pdf">Resume</a></td>
+            <td> <a href="/assets/CV Adrian Hartanto.pdf">Resume</a> </td>
         </tr>
         
         <tr>
@@ -225,7 +225,7 @@
                 <p>3. Navicat</p>
                 <p>4. Terminal</p>
                 <p>5. GitLab / GitHub</p>
-            <td><a href="/assets/Ivander's Resume.pdf">Resume</a></td>
+            <td> <a href="/assets/Ivander's Resume.pdf">Resume</a> </td>
         </tr>
         
         <tr>
@@ -236,7 +236,7 @@
             <td><p>1. Trello Scrum</p>
                 <p>2. Immobi Tracker</p>
                 <p>3. Google Drive</p>
-            <td><a href="/assets/Aulia's Resume.pdf">Resume</a></td>
+            <td> <a href="/assets/Aulia's Resume.pdf">Resume</a> </td>
         </tr>
         
         <tr>
@@ -244,7 +244,7 @@
             <td><p>1. Rating Karyawan</p>
                 <p>2. CRM App(Sales and Marketing App)</p>
             <td><p>1. Android Studio</p>
-            <td><a href="/assets/Samuel Sanjaya CV.pdf">Resume</a></td>
+            <td> <a href="/assets/Samuel Sanjaya CV.pdf">Resume</a> </td>
         </tr>
         
         <tr>
@@ -254,7 +254,7 @@
             <td><p>1. Trello Scrum</p>
                 <p>2. Immobi Tracker</p>
                 <p>3. Google Drive</p>
-            <td><a href="/assets/Aprilia Dwi.L (3).pdf">Resume</a></td>
+            <td> <a href="/assets/Aprilia Dwi.L (3).pdf">Resume</a> </td>
         </tr>
         
         <tr>
@@ -262,7 +262,7 @@
             <td><p>1. Data Analytics (PT Pupuk Indonesia)</p>
             <td><p>1. Anaconda</p>
                 <p>2. Jupyter Notebook</p>
-            <td><a href="/assets/Imanuel Ruben.pdf">Resume</a></td>
+            <td> <a href="/assets/Imanuel Ruben.pdf">Resume</a> </td>
         </tr>
 
         <tr>
@@ -270,7 +270,7 @@
             <td><p>1. Data Analytics (PT Pupuk Indonesia)</p>
             <td><p>1. Anaconda</p>
                 <p>2. Jupyter Notebook</p>
-            <td><a href="/assets/Hengky.pdf">Resume</a></td>
+            <td> <a href="/assets/Hengky.pdf">Resume</a> </td>
         </tr>
 
         <tr>
@@ -278,7 +278,7 @@
             <td><p>1. Data Analytics (PT Pupuk Indonesia)</p>
             <td><p>1. Anaconda</p>
                 <p>2. Jupyter Notebook</p>
-            <td><a href="/assets/Krisna Fernando.pdf">Resume</a></td>
+            <td> <a href="/assets/Krisna Fernando.pdf">Resume</a> </td>
         </tr>
 
     </table>
