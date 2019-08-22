@@ -11,10 +11,16 @@
 |
 */
 
-Route::get('/', function () {
-    return view('welcome');
-});
+// route ke homepage
+Route::get('/', function() {
+    return redirect()->route('signin');
+})->name('home');
 
-Route::get('register', function () {
-    return view('wololoxd');
-});
+// route signin signout auth
+Route::get('/signin', 'SignInController@index')->name('signin');
+Route::get('/signout', 'SignInController@signout')->name('signout');
+Route::post('/auth', 'SignInController@auth')->name('auth');
+
+// route view cv dan portfolio
+Route::get('/cv', 'PageController@cv')->name('cv');
+Route::get('/portfolio', 'PageController@portfolio')->name('portfolio');
