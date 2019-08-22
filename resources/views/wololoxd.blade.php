@@ -19,7 +19,7 @@
 
         <tr>
             <td>1</td>
-            <td><a href="/assets/Maykel's Resume(1).pdf">Big Data Exploration</a></td>
+            <td><a href="/assets/flyerbig.jpg">Big Data Exploration</a></td>
             <td><p>1. Kevin Munandar</p>
                 <p>2. Muhamad Fadel</p>
                 <p>3. Maykel Wongkar</p>
