@@ -49,8 +49,15 @@
                 <p>3. OSS Project</p>
                 <p>4. Redsite Project</p>
                 <p>5. Data Analytics (PT Pupuk Indonesia)</p></td>
-            <td><p>1. Hadoop Hortonworks</p>
-                <p>2. Google Drive</p>
+            <td><p>1. Visual Studio Code</p>
+                <p>2. Navicat</p>
+                <p>3. SSH-Client(PuTTY)</p>
+                <p>4. Postgresql</p>
+                <p>5. Apache Airflow</p>
+                <p>6. MapInfo</p>
+                <p>7. FileZilla</p>
+                <p>8. Hadoop Hortonworks</p>
+                <p>9. Google Drive</p></td>
             <td><a href="/assets/Muhamad Fadel - cv.pdf">Resume</a></td>
         </tr>
 
