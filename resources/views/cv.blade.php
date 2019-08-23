@@ -11,12 +11,13 @@
     <div class="topnav">
         <a href="/cv">LIST CV</a>
         <a href="/portfolio">LIST PORTFOLIO</a>
+        <a href="/test123">wololo</a>
         <a href="/signout">SIGN OUT</a>
     </div>
 
     <h2 align="center">Daftar CV Karyawan Magang 2019</h2>
 
-    <hr />
+    
 
     <table id="example" id="example" class="table table-striped table-bordered" style="width:100%">
         <tr>

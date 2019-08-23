@@ -18,6 +18,15 @@ class PageController extends Controller
         }
     }
 
+    public function test123()
+    {
+        if (Session::get('isLoggedIn') == true) {
+            return view('test123');
+        } else {
+            return redirect()->route('home');
+        }
+    }
+
     // Return view portfolio.blade.php kalau sedang login
     // kalau tidak login dilempar kembali ke homepage
     public function portfolio()
@@ -28,4 +37,5 @@ class PageController extends Controller
             return redirect()->route('home');
         }
     }
+    
 }

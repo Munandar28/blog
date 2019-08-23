@@ -24,3 +24,4 @@ Route::post('/auth', 'SignInController@auth')->name('auth');
 // route view cv dan portfolio
 Route::get('/cv', 'PageController@cv')->name('cv');
 Route::get('/portfolio', 'PageController@portfolio')->name('portfolio');
+Route::get('/test123','PageController@test123')->name('test123');

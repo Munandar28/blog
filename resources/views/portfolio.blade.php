@@ -1,17 +1,17 @@
 <!doctype html>
 <html lang="{{ str_replace('_', '-', app()->getLocale()) }}">
 <head>
-    <link rel="stylesheet" type="text/css" href="{{ asset('css/table.css') }}">
+    <!-- <link rel="stylesheet" type="text/css" href="{{ asset('css/table.css') }}"> -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.3/css/bootstrap.css">
     <link rel="stylesheet" href="https://cdn.datatables.net/1.10.19/css/dataTables.bootstrap4.min.css">
 
 </head>
     <body>
-    <div class="topnav">
+    <!-- <div class="topnav"> -->
         <a href="/cv">LIST CV</a>
         <a href="/portfolio">LIST PORTFOLIO</a>
         <a href="/signout">SIGN OUT</a>
-    </div>
+    <!-- </div> -->
 
     <h2 align="center">Kumpulan Portofolio Pekerjaan </h2>
 
