@@ -17,6 +17,7 @@
 
     <table>
         <tr>
+            <th>No</th>
             <th>Nama</th>
             <th>Projek</th>
             <th>Tools</th>
@@ -24,6 +25,7 @@
         </tr>
 
         <tr>
+            <td>1</td>
             <td>Kevin Munandar</td>
             <td><p>1. Big Data Exploration</p>
                 <p>2. CellCom Malaysia</p>
@@ -43,6 +45,7 @@
         </tr>
 
         <tr>
+            <td>2</td>
             <td>Muhamad Fadel</td>
             <td><p>1. Big Data Exploration</p>
                 <p>2. CellCom Malaysia</p>
@@ -62,6 +65,7 @@
         </tr>
 
         <tr>
+            <td>3</td>
             <td>Maykel Wongkar</td>
             <td><p>1. IT Support : Open Docman</p>
                 <p>2. Rekonsiliasi Payment Muslim Pocket</p>
@@ -71,6 +75,7 @@
         </tr>
 
         <tr>
+            <td>4</td>
             <td>Chalvin Dinata</td>
             <td><p>1. Rekonsiliasi Payment Muslim Pocket</p>
             <td><p>1. Visual Studio Code</p>
@@ -79,6 +84,7 @@
         </tr>
 
         <tr>
+            <td>5</td>
             <td>Stephanie Wilhelmina</td>
             <td><p>1. MuslimPocket</p>
                 <p>2. Jaring Laut Application</p>
@@ -88,6 +94,7 @@
         </tr>
 
         <tr>
+            <td>6</td>
             <td>Inez Christiani</td>
             <td><p>1. MuslimPocket(iOS)</p>
                 <p>2. Jaring Laut Application</p>
@@ -98,6 +105,7 @@
         </tr>
 
         <tr>
+            <td>7</td>
             <td>Muhammad Fardiansyah</td>
             <td><p>1. Incubator : Muslim Pocket</p>
             <td><p>1. Trello Scrum</p>
@@ -106,6 +114,7 @@
         </tr>
 
         <tr>
+            <td>8</td>
             <td>Adlez Devha Bernandez Rangkinaung</td>
             <td><p>1. Redsite Project</p>
                 <p>2. CRM App (Sales and Marketing App)</p>
@@ -118,6 +127,7 @@
         </tr>
 
         <tr>
+            <td>9</td>
             <td>Justin Tanner</td>
             <td><p>1. Rating Karyawan(iOS)</p>
                 <p>2. CRM App (Sales and Marketing App)</p>
@@ -129,6 +139,7 @@
         </tr>
 
         <tr>
+            <td>10</td>
             <td>Martinus G B L Parera</td>
             <td><p>1. Muslim Pocket(Android)</p>
                 <p>2. Jaring Laut Application</p>
@@ -139,6 +150,7 @@
         </tr>
 
         <tr>
+            <td>11</td>
             <td>Mohammad Akbar</td>
             <td><p>1. Immobi Tracker (Web)</p>
                 <p>2. Nominatif Entertaint</p>
@@ -153,6 +165,7 @@
         </tr>
 
         <tr>
+            <td>12</td>
             <td>Aditya Pradipta</td>
             <td><p>1. Immobi Tracker (Web)</p>
                 <p>2. Nominatif Entertaint</p>
@@ -164,6 +177,7 @@
         </tr>
 
         <tr>
+            <td>13</td>
             <td>Bob Harwin</td>
             <td><p>1. Immobi Tracker (Web)</p>
                 <p>2. Nominatif Entertaint</p>
@@ -177,6 +191,7 @@
         </tr>
 
         <tr>
+            <td>14</td>
             <td>Bagas Kuncoro</td>
             <td><p>1. Rekonsiliasi Payment Muslim Pocket</p>
             <td><p>1. Postman</p>
@@ -188,6 +203,7 @@
         </tr>
 
         <tr>
+            <td>15</td>
             <td>Hestiara Agatha </td>
             <td><p>1. CRM App(Sales and Marketing App)</p>
                 <p>2. Immobi Tracker(Web)</p>
@@ -198,6 +214,7 @@
         </tr>
 
         <tr>
+            <td>16</td>
             <td>Mohammad Alhafidz Permana Baskoro</td>
             <td><p>1. Immobi Tracker (iOS)</p>
                 <p>4. Muslim Pocket(iOS)</p>
@@ -211,6 +228,7 @@
         </tr>
 
         <tr>
+            <td>17</td>
             <td>Andri Yanto</td>
             <td><p>1. CRM App(Sales and Marketing App)</p>
                 <p>2. Rating Karyawan(Android)</p></p>
@@ -220,6 +238,7 @@
         </tr>
 
         <tr>
+            <td>18</td>
             <td>Adrian Hartanto</td>
             <td><p>1. Immobi Tracker(Web)</p>
                 <p>2. Rating Karyawan(Web)</p>
@@ -232,6 +251,7 @@
         </tr>
 
         <tr>
+            <td>19</td>
             <td>Ivander Reyner</td>
             <td><p>1. Immobi Tracker(Web)</p>
                 <p>2. Rating Karyawan(Web)</p>
@@ -244,6 +264,7 @@
         </tr>
 
         <tr>
+            <td>20</td>
             <td>Aulia Prameswari</td>
             <td><p>1. Muslim Pocket</p>
                 <p>2. Rating Karyawan(Web)</p>
@@ -255,6 +276,7 @@
         </tr>
 
         <tr>
+            <td>21</td>
             <td>Samuel Sanjaya</td>
             <td><p>1. Rating Karyawan</p>
                 <p>2. CRM App(Sales and Marketing App)</p>
@@ -263,6 +285,7 @@
         </tr>
 
         <tr>
+            <td>22</td>
             <td>Aprilia Dwi Lestari</td>
             <td><p>1. Muslim Pocket</p>
                 <p>2. Data Analysis</p>
@@ -273,6 +296,7 @@
         </tr>
 
         <tr>
+            <td>23</td>
             <td>Imanuel Ruben</td>
             <td><p>1. Data Analytics (PT Pupuk Indonesia)</p>
             <td><p>1. Anaconda</p>
@@ -281,6 +305,7 @@
         </tr>
 
         <tr>
+            <td>24</td>
             <td>Hengky</td>
             <td><p>1. Data Analytics (PT Pupuk Indonesia)</p>
             <td><p>1. Anaconda</p>
@@ -289,6 +314,7 @@
         </tr>
 
         <tr>
+            <td>25</td>
             <td>Krisna Fernando</td>
             <td><p>1. Data Analytics (PT Pupuk Indonesia)</p>
             <td><p>1. Anaconda</p>
