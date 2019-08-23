@@ -2,9 +2,11 @@
 <html lang="{{ str_replace('_', '-', app()->getLocale()) }}">
 <head>
     <link rel="stylesheet" type="text/css" href="{{ asset('css/table.css') }}">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.3/css/bootstrap.css">
+    <link rel="stylesheet" href="https://cdn.datatables.net/1.10.19/css/dataTables.bootstrap4.min.css">
+
 </head>
     <body>
-
     <div class="topnav">
         <a href="/cv">LIST CV</a>
         <a href="/portfolio">LIST PORTFOLIO</a>
@@ -15,7 +17,7 @@
 
     <hr />
 
-    <table>
+    <table id="example" id="example" class="table table-striped table-bordered" style="width:100%">
         <tr>
             <th>No</th>
             <th>Nama Project</th>
@@ -214,4 +216,17 @@
 
     </table>
     </body>
+   
+<script src="https://code.jquery.com/jquery-3.3.1.js"></script>
+<script src="https://cdn.datatables.net/1.10.19/js/jquery.dataTables.min.js"></script>
+<script src="https://cdn.datatables.net/1.10.19/js/dataTables.bootstrap4.min.js"></script>
+
+
+    <script>
+    $(document).ready(function() {
+    $('#example').DataTable();
+} );
+
+    
+    </script>
 </html>
