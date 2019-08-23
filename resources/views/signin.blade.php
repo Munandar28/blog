@@ -6,7 +6,7 @@
     <body>
     <div class="login-page"> 
     <div class="form"> 
-        <div align="center"> <form action="{{ route('auth') }}" method="POST">
+        <div > <form action="{{ route('auth') }}" method="POST">
             @csrf
             <label>Email : </label>
             <input type="email" name="email" />
@@ -20,6 +20,6 @@
     </div>
     </div>
 
- 
+  
     </body>
 </html>
