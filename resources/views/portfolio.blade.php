@@ -7,11 +7,11 @@
 
 </head>
     <body>
-    <!-- <div class="topnav"> -->
+    <div class="topnav">
         <a href="/cv">LIST CV</a>
         <a href="/portfolio">LIST PORTFOLIO</a>
         <a href="/signout">SIGN OUT</a>
-    <!-- </div> -->
+    </div>
 
     <h2 align="center">Kumpulan Portofolio Pekerjaan </h2>
 
