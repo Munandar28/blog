@@ -1,31 +1,28 @@
-<!doctype html>
-<html lang="{{ str_replace('_', '-', app()->getLocale()) }}">
 <head>
-    <!-- <link rel="stylesheet" type="text/css" href="{{ asset('css/table.css') }}"> -->
+    <link rel="stylesheet" type="text/css" href="{{ asset('css/table.css') }}">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.3/css/bootstrap.css">
     <link rel="stylesheet" href="https://cdn.datatables.net/1.10.19/css/dataTables.bootstrap4.min.css">
 
 </head>
-    <body>
-    <!-- <div class="topnav"> -->
-        <a href="/cv">LIST CV</a>
-        <a href="/portfolio">LIST PORTFOLIO</a>
-        <a href="/signout">SIGN OUT</a>
-    <!-- </div> -->
+<table id="example" class="table table-striped table-bordered" style="width:100%">
+        <thead>
+            <tr>
+                <th>No</th>
+                <th>Nama Project</th>
+                <th>Nama karyawan</th>
+                <th>Tools</th>
+            </tr>
+        </thead>
+        <tbody>
 
-    <h2 align="center">Kumpulan Portofolio Pekerjaan </h2>
+    <h2 align="center">Daftar Portofolio projek Karyawan Magang 2019</h2>
 
-    <hr />
-
-    <table id="example" id="example" class="table table-striped table-bordered" style="width:100%">
-        <tr>
-            <th>No</th>
-            <th>Nama Project</th>
-            <th>Nama karyawan</th>
-            <th>Tools</th>
-
-        </tr>
-
+        <div class="topnav">
+                <a href="/portfolio">LIST PORTFOLIO</a>
+                <a href="/cv">LIST CV</a>
+                <a href="/signout">SIGN OUT</a>
+        </div>
+            
         <tr>
             <td>1</td>
             <td><a href="assets/flyerbig.jpg">Big Data Exploration</a></td>
@@ -88,8 +85,6 @@
               <td><p>1. Visual Studio Code</p>
                 <p>2. Postman</p>
                 <p>3. Navicat</p>
-
-
         </tr>
 
 
@@ -101,7 +96,6 @@
               <td><p>1. Visual Studio Code</p>
                 <p>2. Postman</p>
                 <p>3. Xcode</p>
-
         </tr>
 
         <tr>
@@ -111,7 +105,6 @@
 
               <td><p>1. Xcode</p>
                 <p>2. Google Drive</p>
-
         </tr>
 
         <tr>
@@ -123,7 +116,6 @@
               <td><p>1. Android Studio</p>
                 <p>2. Visual Studio Code</p>
                 <p>3. Navicat</p>
-
         </tr>
 
         <tr>
@@ -139,7 +131,6 @@
                 <p>3. Android Studio</p>
                 <p>4. Navicat</p>
                 <p>5. Visual Code</p></td></td>
-
         </tr>
 
         <tr>
@@ -153,7 +144,6 @@
               <td><p>1. Google Drive</p>
                 <p>2. Anaconda</p>
                 <p>3. Jupyter Notebook</p>
-
         </tr>
 
         <tr>
@@ -167,7 +157,6 @@
                 <p>2. Navicat</p>
                 <p>3. Terminal</p>
                 <p>4. Postman</p>
-
         </tr>
 
         <tr>
@@ -200,24 +189,9 @@
                 <p>2. Navicat</p>
 
         </tr>
+        </tfoot>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-    </table>
-    </body>
-   
-<script src="https://code.jquery.com/jquery-3.3.1.js"></script>
+        <script src="https://code.jquery.com/jquery-3.3.1.js"></script>
 <script src="https://cdn.datatables.net/1.10.19/js/jquery.dataTables.min.js"></script>
 <script src="https://cdn.datatables.net/1.10.19/js/dataTables.bootstrap4.min.js"></script>
 
@@ -229,4 +203,4 @@
 
     
     </script>
-</html>
+    </table>

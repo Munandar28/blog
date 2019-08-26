@@ -1,5 +1,5 @@
 <head>
-    <!-- <link rel="stylesheet" type="text/css" href="{{ asset('css/table.css') }}"> -->
+    <link rel="stylesheet" type="text/css" href="{{ asset('css/table.css') }}">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.3/css/bootstrap.css">
     <link rel="stylesheet" href="https://cdn.datatables.net/1.10.19/css/dataTables.bootstrap4.min.css">
 
@@ -17,7 +17,6 @@
         <tbody>
 
     <h2 align="center">Daftar CV Karyawan Magang 2019</h2>
-        
 
         <div class="topnav">
         <a href="/cv">LIST CV</a>
@@ -148,7 +147,7 @@
             <td><p>1. Xcode</p>
                 <p>2. Google Drive</p>
                 <p>3. Immobi Tracker</p>
-            <td><a href="/assets/CV_Muhammad_fardiansyah.pdf">Resume</a> </td>
+            <td><a href="/assets/Martinus's Resume.pdf">Resume</a> </td>
         </tr>
 
         <tr>
