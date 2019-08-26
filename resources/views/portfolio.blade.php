@@ -85,8 +85,6 @@
               <td><p>1. Visual Studio Code</p>
                 <p>2. Postman</p>
                 <p>3. Navicat</p>
-
-
         </tr>
 
 
@@ -98,7 +96,6 @@
               <td><p>1. Visual Studio Code</p>
                 <p>2. Postman</p>
                 <p>3. Xcode</p>
-
         </tr>
 
         <tr>
@@ -108,7 +105,6 @@
 
               <td><p>1. Xcode</p>
                 <p>2. Google Drive</p>
-
         </tr>
 
         <tr>
@@ -120,7 +116,6 @@
               <td><p>1. Android Studio</p>
                 <p>2. Visual Studio Code</p>
                 <p>3. Navicat</p>
-
         </tr>
 
         <tr>
@@ -136,7 +131,6 @@
                 <p>3. Android Studio</p>
                 <p>4. Navicat</p>
                 <p>5. Visual Code</p></td></td>
-
         </tr>
 
         <tr>
@@ -150,7 +144,6 @@
               <td><p>1. Google Drive</p>
                 <p>2. Anaconda</p>
                 <p>3. Jupyter Notebook</p>
-
         </tr>
 
         <tr>
@@ -164,7 +157,6 @@
                 <p>2. Navicat</p>
                 <p>3. Terminal</p>
                 <p>4. Postman</p>
-
         </tr>
 
         <tr>

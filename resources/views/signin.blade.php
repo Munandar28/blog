@@ -52,12 +52,12 @@
                 <hr />  
                 </div>
 
-                <button type="submit">Sign In</button>
+                <button type="submit" class="btn btn-primary btn-block">Log In</button>
                 <!-- <h2 class="text-center">Log in</h2>        -->
 
-                <div class="clearfix">
+                <!-- <div class="clearfix">
                 <label class="pull-left checkbox-inline"><input type="checkbox"> Remember me</label>
-                <a href="#" class="pull-right">Forgot Password?</a>
+                <a href="#" class="pull-right">Forgot Password?</a> -->
             </div>   
         
             </form>
