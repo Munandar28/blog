@@ -148,7 +148,7 @@
             <td><p>1. Xcode</p>
                 <p>2. Google Drive</p>
                 <p>3. Immobi Tracker</p>
-            <td><a href="/assets/CV_Muhammad_fardiansyah.pdf">Resume</a> </td>
+            <td><a href="/assets/Martinus's Resume.pdf">Resume</a> </td>
         </tr>
 
         <tr>
