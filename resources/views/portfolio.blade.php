@@ -106,7 +106,7 @@
 
         <tr>
             <td>6</td>
-            <td><a href="public\assets\brosur rating karyawan 2.jpg">Rating Karyawan (IOS)</a>
+            <td><a href="assets/brosur rating karyawan 2.jpg">Rating Karyawan (IOS)</a>
             <td><p>1. Justin Tanner </p>
 
               <td><p>1. Xcode</p>
@@ -116,7 +116,7 @@
 
         <tr>
             <td>8</td>
-            <td><a href="public\assets\brosur rating karyawan 2.jpg">Rating Karyawan (Android)</a>
+            <td><a href="assets/brosur rating karyawan 2.jpg">Rating Karyawan (Android)</a>
             <td><p>1. Samuel Sanjaya</p>
                 <p>2. Andri Yanto</p>
 
