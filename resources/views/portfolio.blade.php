@@ -145,7 +145,7 @@
 
         <tr>
             <td>10</td>
-            <td><a href="">Data Analytics(PT. Pupuk Indonesia)</a>
+            <td><a href="assets/ORGANICS Fest (2).pdf">Data Analytics(PT. Pupuk Indonesia)</a>
             <td><p>1. Aprilia Dwi Lestari</p>
                 <p>2. Hengky</p>
                 <p>3. Krisna Fernando</p>
