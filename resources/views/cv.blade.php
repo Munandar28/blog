@@ -124,7 +124,7 @@
             <td><p>1. Trello Scrum</p>
                 <p>2. Google Drive</p>
                 <p>3. Immobi Tracker</p>
-            <td><a href="/assets/CV (Adlez D.B Rakinaung).pdf">Resume</a></td>
+            <td><a href="/assets/CV (Adlez D.B Rakinaung) (3).pdf">Resume</a></td>
         </tr>
 
         <tr>

@@ -56,11 +56,21 @@
                 <p>3. Immobi Tracker</p>
                 <p>4. GitLab / GitHub</p>
                 <p>5. Google Drive</p></td></td>
-
         </tr>
 
         <tr>
             <td>3</td>
+            <td><a href="/assets/._muslimpocket poster_NoQRcode.jpg">MuslimPocket(IOS)</a>
+            <td><p>1. Mohammad Alhafidz Permana Baskoro </p>
+
+              <td><p>1. Visual Studio Code</p>
+                <p>2. Postman</p>
+                <p>3. Xcode</p>
+                <p>4. Navicat</p>
+        </tr>
+
+        <tr>
+            <td>4</td>
             <td><a href="">Jaring Laut Application</a>
             <td><p>1. Inez Christiani</p>
                 <p>2. Martinus G B L Parera</p>
@@ -73,7 +83,7 @@
         </tr>
 
         <tr>
-            <td>4</td>
+            <td>5</td>
             <td><a href="/assets/photo6260539743527872770.jpg">Immobi Tracker (Web)</a>
             <td><p>1. Mohammad Akbar</p>
                 <p>2. Bob Harwin</p>
@@ -89,7 +99,7 @@
 
 
         <tr>
-            <td>5</td>
+            <td>6</td>
             <td><a href="/assets/photo6260496566221646079.jpg">Immobi Tracker (IOS)</a>
             <td><p>1. Mohammad Alhafidz Permana Baskoro </p>
 
@@ -99,7 +109,7 @@
         </tr>
 
         <tr>
-            <td>6</td>
+            <td>7</td>
             <td><a href="assets/brosur rating karyawan 2.jpg">Rating Karyawan (IOS)</a>
             <td><p>1. Justin Tanner </p>
 
@@ -120,7 +130,7 @@
 
         <tr>
             <td>9</td>
-            <td><a href="">CRM App (Sales and Marketing App)</a>
+            <td><a href="assets/Brosur CRM (3).pdf">CRM App (Sales and Marketing App)</a>
             <td><p>1. Adlez Devha Bernandez Rakinaung</p>
                 <p>2. Andri Yanto</p>
                 <p>3. Hestiara Agatha</p>
@@ -148,7 +158,7 @@
 
         <tr>
             <td>11</td>
-            <td><a href="">Nominatif Entertaint</a>
+            <td><a href="assets/Nominatif Entertaint.pdf">Nominatif Entertaint</a>
             <td><p>1. Mohammad Akbar</p>
                 <p>2. Aditya Pradipta</p>
                 <p>3. Bob Harwin</p>
@@ -161,7 +171,7 @@
 
         <tr>
             <td>12</td>
-            <td><a href="">Rekonsiliasi Payment Muslim Pocket</a>
+            <td><a href="assets/Rekonsiliasi">Rekonsiliasi Payment Muslim Pocket</a>
             <td><p>1. Mohammad Akbar</p>
                 <p>2. Aditya Pradipta</p>
                 <p>3. Bob Harwin</p>
