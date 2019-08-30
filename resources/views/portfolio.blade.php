@@ -10,8 +10,10 @@
                 <th>No</th>
                 <th>Nama Project</th>
                 <th>Nama karyawan</th>
-                <th>Tools</th>
-            </tr>
+                <th>Software</th>
+                <!-- <th>Hardware</th>
+                <th>Deskripsi Proyek</th>
+            </tr> -->
         </thead>
         <tbody>
 
@@ -25,7 +27,7 @@
             
         <tr>
             <td>1</td>
-            <td><a href="assets/flyerbig.jpg">Big Data Exploration</a></td>
+            <td><a href="/assets/Big data.pdf">Big Data Exploration</a></td>
             <td><p>1. Kevin Munandar</p>
                 <p>2. Muhamad Fadel</p>
                 <p>3. Maykel Wongkar</p>
@@ -35,12 +37,16 @@
                 <p>3. FileZilla</p>
                 <p>4. Hadoop Hortonworks</p>
                 <p>5. Visual Code</p></td></td>
+                <!-- <td><p>hardware</p>
+                </td>
+                <td><p>deskripsi</p>
+                </td> -->
 
         </tr>
 
         <tr>
             <td>2</td>
-            <td><a href="/assets/3e8ae472-212b-469e-b63b-3ad68ae2ce60.jpg">MuslimPocket</a>
+            <td><a href="/assets/muslimpocket_compressed.pdf">MuslimPocket</a>
             <td><p>1. Inez Christiani</p>
                 <p>2. Muhammad Fardiansyah</p>
                 <p>3. Muhammad Farid Wajidi</p>
@@ -60,8 +66,9 @@
 
         <tr>
             <td>3</td>
-            <td><a href="/assets/._muslimpocket poster_NoQRcode.jpg">MuslimPocket(IOS)</a>
+            <td><a href="/assets/muslimpocket_compressed.pdf">MuslimPocket(IOS)</a>
             <td><p>1. Mohammad Alhafidz Permana Baskoro </p>
+                <p>2. Inez Christiani</p>
 
               <td><p>1. Visual Studio Code</p>
                 <p>2. Postman</p>
@@ -130,7 +137,7 @@
 
         <tr>
             <td>9</td>
-            <td><a href="assets/Brosur CRM (3).pdf">CRM App (Sales and Marketing App)</a>
+            <td><a href="assets/Brosur CRM (5).pdf">CRM App (Sales and Marketing App)</a>
             <td><p>1. Adlez Devha Bernandez Rakinaung</p>
                 <p>2. Andri Yanto</p>
                 <p>3. Hestiara Agatha</p>
@@ -171,7 +178,7 @@
 
         <tr>
             <td>12</td>
-            <td><a href="assets/Rekonsiliasi">Rekonsiliasi Payment Muslim Pocket</a>
+            <td><a href="assets/Rekonsiliasi.pdf">Rekonsiliasi Payment Muslim Pocket</a>
             <td><p>1. Mohammad Akbar</p>
                 <p>2. Aditya Pradipta</p>
                 <p>3. Bob Harwin</p>
@@ -197,7 +204,100 @@
 
               <td><p>1. Mapinfo</p>
                 <p>2. Navicat</p>
+                  <p>3. Google Drive</p>
+                  <p>4. Visual Studio Code</p>
 
+              
+        </tr>
+
+        <tr>
+            <td>14</td>
+            <td><a href="">Connecta Phase 2 </a>
+            <td><p>1. Muhammad Akbar</p>
+                <p>2. Samuel Sanjaya</p>
+                <p>3. Aditya Pradipta</p>
+                
+
+              <td><p>1. Postman</p>
+                <p>2. Navicat</p>
+                <p>3. Visual Studio Code</p>
+                <p>4. Immobi Tracker</p>
+
+        </tr>
+
+        <tr>
+            <td>15</td>
+            <td><a href="">Artemis II Phase 2</a>
+            <td><p>1. Adrian Hartanto</p>
+                <p>2. Ivander Reyner Suryohadi</p>
+                <p>3. Aditya Pradipta</p>
+                <p>4. Muhammad Fardiansyah</p>
+                
+
+              <td><p>1. Visual Studio Code</p>
+                <p>2. Immobi Tracker</p>
+
+        </tr>
+
+        <tr>
+            <td>16</td>
+            <td><a href="">Panduan Haji & Umroh (Android)</a>
+            <td><p>1. Stephanie Wilhelmina</p>
+                <p>2. Martinus G B L Parera</p>
+                <p>3. Aulia Prameswari Elyanto</p>
+        
+                
+
+              <td><p>1. Visual Studio Code</p>
+                <p>2. Android Studio</p>
+                <p>3. Immobi Tracker</p>
+
+
+        </tr>
+
+        <tr>
+            <td>17</td>
+            <td><a href="">Ayo Nyoblos</a>
+            <td><p>1. Muhammad Akbar</p>
+                <p>2. Aditya Pradipta</p>
+              
+
+              <td><p>1. Eclipse</p>
+                <p>2. Postman</p>
+                <p>3. Navicat</p>
+                <p>4. GitLab/GitHub</p>
+                <p>5. Visual Studio Code</p>
+                <p>6. Terminal</p>
+                <p>7. Immobi Tracker</p>
+
+        </tr>
+
+        
+        <tr>
+            <td>18</td>
+            <td><a href="">Cellcom Malaysia</a>
+            <td><p>1. Muhammad Fadel</p>
+                <p>2. Chalvin Surya Dinata</p>
+                <p>3. Kevin Munandar</p>
+                <p>4. Maykel Adhitia Wongkar</p>
+                <p>5. Aditya Pradipta</p>
+
+
+              <td><p>1. Filezilla</p>
+                <p>2. Navicat</p>
+                <p>3. Immobi Tracker</p>
+                <p>4. Google Drive</p>
+
+        </tr>
+
+        <tr>
+            <td>19</td>
+            <td><a href="">Incubator : Angel Investment</a>
+            <td><p>1. Justin Tanner</p>
+                <p>2. Adlez Devha Bernandez Rakinaung</p>
+       
+              <td><p>1. Google Drive</p>
+                
         </tr>
         </tfoot>
 

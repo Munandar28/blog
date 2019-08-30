@@ -22,6 +22,7 @@ class PageController extends Controller
     {
         if (Session::get('isLoggedIn') == true) {
             return view('test123');
+            
         } else {
             return redirect()->route('home');
         }
