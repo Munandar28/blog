@@ -4,6 +4,9 @@
     <link rel="stylesheet" href="https://cdn.datatables.net/1.10.19/css/dataTables.bootstrap4.min.css">
 
 </head>
+
+<div class="table-responsive-sm">
+
 <table id="example" class="table table-striped table-bordered" style="width:100%">
         <thead>
             <tr>
@@ -16,7 +19,9 @@
         </thead>
         <tbody>
 
-    <h2 align="center">Daftar CV Karyawan Magang 2019</h2>
+    <!-- <h2 align="center">Daftar CV Karyawan Magang 2019</h2> -->
+    <title>Daftar CV</title>    
+
 
         <div class="topnav">
         <a href="/cv">LIST CV</a>
@@ -24,7 +29,8 @@
         <a href="/signout">SIGN OUT</a>
     </div>
             <tr>
-            <td>1</td>
+            <!-- <td>1</td> -->
+            <th scope="row">1</th>
             <td>Kevin Munandar</td>
             <td><p>1. Big Data Exploration</p>
                 <p>2. CellCom Malaysia</p>
@@ -44,7 +50,8 @@
             </tr>
 
             <tr>
-            <td>2</td>
+            <!-- <td>2</td> -->
+            <th scope="row">2</th>
             <td>Muhamad Fadel</td>
             <td><p>1. Big Data Exploration</p>
                 <p>2. CellCom Malaysia</p>
@@ -65,57 +72,108 @@
         
         
         <tr>
-            <td>3</td>
+            <!-- <td>3</td> -->
+            <th scope="row">3</th>
             <td>Maykel Wongkar</td>
-            <td><p>1. IT Support : Open Docman</p>
+            <td><p>1. Big Data Exploration</p>
                 <p>2. Rekonsiliasi Payment Muslim Pocket</p>
+                <p>3. OSS Project</p>
+                <p>4. Connecta Database</p>
+                <p>5. IT Support : LogicalDOC</p>
+                <p>6. Cellcom Malaysia</p>
+
             <td><p>1. Visual Studio Code</p>
                 <p>2. Navicat</p>
+                <p>3. Immobi Tracker (QdPM)</p>
+                <p>4. Pycharm</p>
+                <p>5. Hadoop Hortonworks</p>
+                <p>6. Postman</p>
+
             <td><a href="/assets/Maykel's Resume(1).pdf">Resume</a></td>
         </tr>
 
         <tr>
-            <td>4</td>
+
+            <th scope="row">4</th>
+            <!-- <td>4</td> -->
             <td>Chalvin Dinata</td>
-            <td><p>1. Rekonsiliasi Payment Muslim Pocket</p>
+            <td><p>1. Big Data Exploration</p>
+                <p>2. Rekonsiliasi Payment Muslim Pocket</p>
+                <p>3. OSS Project</p>
+                <p>4. Connecta Database</p>
+                <p>5. Cellcom Malaysia</p>
+
             <td><p>1. Visual Studio Code</p>
                 <p>2. Navicat</p>
+                <p>3. Immobi Tracker (QdPM)</p>
+                <p>4. Pycharm</p>
+                <p>5. Hadoop Hortonworks</p>
+                <p>6. Postman</p>
+
             <td><a href="/assets/Chalvin's Resume.pdf">Resume</a></td>
         </tr>
 
         <tr>
-            <td>5</td>
+            <th scope="row">5</th>
+            <!-- <td>5</td> -->
             <td>Stephanie Wilhelmina</td>
-            <td><p>1. MuslimPocket</p>
-                <p>2. Jaring Laut Application</p>
+            <td><p>1. Muslim Pocket (Android)</p>
+                <p>2. Panduan Haji & Umroh (Android)</p>
+                <p>3. Immobi Tracker (Web)</p>
+                <p>4. Jaring Laut Application</p>
+
             <td><p>1. Visual Studio Code</p>
-                <p>2. Navicat</p>
+                <p>2. Postman</p>
+                <p>3. Android Studio</p>
+                <p>4. Trello Scrum</p>
+                <p>5. Navicat</p>   
+                <p>6. Immobi Tracker (QdPM)</p>
+
+
             <td><a href="/assets/Stephanie_Wilhelmina_CV.pdf">Resume</a></td>
         </tr>
 
 
         <tr>
-            <td>6</td>
+        
+            <th scope="row">6</th>
+            <!-- <td>6</td> -->
             <td>Inez Christiani</td>
             <td><p>1. MuslimPocket(iOS)</p>
                 <p>2. Jaring Laut Application</p>
                 <p>2. Incubator : Muslim Pocket</p>
             <td><p>1. Trello Scrum</p>
                 <p>2. Immobi Tracker</p>
+                <p>3. Google Drive</p>
+
             <td><a href="/assets/CV - Inez Christiani.pdf">Resume</a></td>
         </tr>
 
         <tr>
-            <td>7</td>
+            <th scope="row">7</th>
+            <!-- <td>7</td> -->
             <td>Muhammad Fardiansyah</td>
             <td><p>1. Incubator : Muslim Pocket</p>
+                <p>2. Muslim Pocket (Android)</p>
+                <p>3. Ookla Malaysia</p>
+                <p>4. Artemis II Phase 2</p>
+                <p>5. CMS : Muslim Pocket</p>
+                <p>6. Rating Karyawan (Android)</p>
+
             <td><p>1. Trello Scrum</p>
-                <p>2. Google Drive</p>
+                <p>2. PostgreSQL</p>
+                <p>3. Draw.io</p>
+                <p>4. Sublime</p>
+                <p>5. Visual Studio Code</p>
+                <p>6. Immobi Tracker (QdPM)</p>
+                <p>7. Google Drive</p>
+
             <td><a href="/assets/MuhammadFardiansyahCV.pdf">Resume</a></td>
         </tr>
 
         <tr>
-            <td>8</td>
+            <th scope="row">8</th>
+            <!-- <td>8</td> -->
             <td>Adlez Devha Bernandez Rangkinaung</td>
             <td><p>1. Redsite Project</p>
                 <p>2. CRM App (Sales and Marketing App)</p>
@@ -128,7 +186,8 @@
         </tr>
 
         <tr>
-            <td>9</td>
+            <th scope="row">9</th>
+            <!-- <td>9</td> -->
             <td>Justin Tanner</td>
             <td><p>1. Rating Karyawan(iOS)</p>
                 <p>2. CRM App (Sales and Marketing App)</p>
@@ -140,7 +199,8 @@
         </tr>
 
         <tr>
-            <td>10</td>
+            <th scope="row">10</th>
+            <!-- <td>10</td> -->
             <td>Martinus G B L Parera</td>
             <td><p>1. Muslim Pocket(Android)</p>
                 <p>2. Jaring Laut Application</p>
@@ -151,7 +211,8 @@
         </tr>
 
         <tr>
-            <td>11</td>
+            <th scope="row">11</th>
+            <!-- <td>11</td> -->
             <td>Mohammad Akbar</td>
             <td><p>1. Immobi Tracker (Web)</p>
                 <p>2. Nominatif Entertaint</p>
@@ -166,7 +227,8 @@
         </tr>
 
         <tr>
-            <td>12</td>
+            <th scope="row">12</th>
+            <!-- <td>12</td> -->
             <td>Aditya Pradipta</td>
             <td><p>1. Immobi Tracker (Web)</p>
                 <p>2. Nominatif Entertaint</p>
@@ -178,7 +240,8 @@
         </tr>
 
         <tr>
-            <td>13</td>
+            <th scope="row">13</th>
+            <!-- <td>13</td> -->
             <td>Bob Harwin</td>
             <td><p>1. Immobi Tracker (Web)</p>
                 <p>2. Nominatif Entertaint</p>
@@ -192,7 +255,8 @@
         </tr>
 
         <tr>
-            <td>14</td>
+            <th scope="row">14</th>
+            <!-- <td>14</td> -->
             <td>Bagas Kuncoro</td>
             <td><p>1. Rekonsiliasi Payment Muslim Pocket</p>
             <td><p>1. Postman</p>
@@ -204,7 +268,8 @@
         </tr>
 
         <tr>
-            <td>15</td>
+            <th scope="row">15</th>
+            <!-- <td>15</td> -->
             <td>Hestiara Agatha </td>
             <td><p>1. CRM App(Sales and Marketing App)</p>
                 <p>2. Immobi Tracker(Web)</p>
@@ -215,7 +280,8 @@
         </tr>
 
         <tr>
-            <td>16</td>
+            <th scope="row">16</th>
+            <!-- <td>16</td> -->
             <td>Mohammad Alhafidz Permana Baskoro</td>
             <td><p>1. Immobi Tracker (iOS)</p>
                 <p>4. Muslim Pocket(iOS)</p>
@@ -229,7 +295,8 @@
         </tr>
 
         <tr>
-            <td>17</td>
+            <th scope="row">17</th>
+            <!-- <td>17</td> -->
             <td>Andri Yanto</td>
             <td><p>1. CRM App(Sales and Marketing App)</p>
                 <p>2. Rating Karyawan(Android)</p></p>
@@ -239,7 +306,8 @@
         </tr>
 
         <tr>
-            <td>18</td>
+            <th scope="row">18</th>
+            <!-- <td>18</td> -->
             <td>Adrian Hartanto</td>
             <td><p>1. Immobi Tracker(Web)</p>
                 <p>2. Rating Karyawan(Web)</p>
@@ -252,7 +320,8 @@
         </tr>
 
         <tr>
-            <td>19</td>
+            <th scope="row">19</th>
+            <!-- <td>19</td> -->
             <td>Ivander Reyner</td>
             <td><p>1. Immobi Tracker(Web)</p>
                 <p>2. Rating Karyawan(Web)</p>
@@ -265,7 +334,8 @@
         </tr>
 
         <tr>
-            <td>20</td>
+            <th scope="row">20</th>
+            <!-- <td>20</td> -->
             <td>Aulia Prameswari</td>
             <td><p>1. Muslim Pocket</p>
                 <p>2. Rating Karyawan(Web)</p>
@@ -277,16 +347,25 @@
         </tr>
 
         <tr>
-            <td>21</td>
+            <th scope="row">21</th>
+            <!-- <td>21</td> -->
             <td>Samuel Sanjaya</td>
             <td><p>1. Rating Karyawan</p>
                 <p>2. CRM App(Sales and Marketing App)</p>
+                <p>3. Connecta Phase 2</p>
+
             <td><p>1. Android Studio</p>
+                <p>2. Visual Studio Code</p>
+                <p>3. Immobi Tracker (QdPM)</p>
+                <p>4. Trello Scrum</p>
+
+
             <td> <a href="/assets/Samuel Sanjaya CV.pdf">Resume</a> </td>
         </tr>
 
         <tr>
-            <td>22</td>
+            <th scope="row">22</th>
+            <!-- <td>22</td> -->
             <td>Aprilia Dwi Lestari</td>
             <td><p>1. Muslim Pocket</p>
                 <p>2. Data Analysis</p>
@@ -297,7 +376,8 @@
         </tr>
 
         <tr>
-            <td>23</td>
+            <th scope="row">23</th>
+            <!-- <td>23</td> -->
             <td>Imanuel Ruben</td>
             <td><p>1. Data Analytics (PT Pupuk Indonesia)</p>
             <td><p>1. Anaconda</p>
@@ -306,7 +386,8 @@
         </tr>
 
         <tr>
-            <td>24</td>
+            <th scope="row">24</th>
+            <!-- <td>24</td> -->
             <td>Hengky</td>
             <td><p>1. Data Analytics (PT Pupuk Indonesia)</p>
             <td><p>1. Anaconda</p>
@@ -315,7 +396,8 @@
         </tr>
 
         <tr>
-            <td>25</td>
+            <th scope="row">25</th>
+            <!-- <td>25</td> -->
             <td>Krisna Fernando</td>
             <td><p>1. Data Analytics (PT Pupuk Indonesia)</p>
             <td><p>1. Anaconda</p>
@@ -333,6 +415,7 @@
                 <th>Link CV(PDF)</th>
             </tr>
         </tfoot>
+        <</div>
 
         <script src="https://code.jquery.com/jquery-3.3.1.js"></script>
 <script src="https://cdn.datatables.net/1.10.19/js/jquery.dataTables.min.js"></script>

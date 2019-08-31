@@ -2,22 +2,34 @@
     <link rel="stylesheet" type="text/css" href="{{ asset('css/table.css') }}">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.3/css/bootstrap.css">
     <link rel="stylesheet" href="https://cdn.datatables.net/1.10.19/css/dataTables.bootstrap4.min.css">
-
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+    
 </head>
+
+<div class="table-responsive-sm ">
+
 <table id="example" class="table table-striped table-bordered" style="width:100%">
         <thead>
-            <tr>
-                <th>No</th>
-                <th>Nama Project</th>
-                <th>Nama karyawan</th>
-                <th>Software</th>
+           
                 <!-- <th>Hardware</th>
-                <th>Deskripsi Proyek</th>
-            </tr> -->
+                <th>Deskripsi Proyek</th> -->
+                <tr>
+                  <th scope="col">No</th>
+                  <th scope="col">Nama Project</th>
+                  <th scope="col">Nama karyawan</th>
+                  <th scope="col">Software</th>
+                  
+                </tr>
+                
+
         </thead>
+
         <tbody>
 
-    <h2 align="center">Daftar Portofolio projek Karyawan Magang 2019</h2>
+    <!-- <h2 align="center">Daftar Portofolio projek Karyawan Magang 2019</h2> -->
+    <!-- <h1 class="display-3">Daftar Portofolio projek Karyawan Magang 2019</h1> -->
+    <title>Daftar Portofolio</title>
+
 
         <div class="topnav">
                 <a href="/portfolio">LIST PORTFOLIO</a>
@@ -36,11 +48,9 @@
                 <p>2. MapInfo</p>
                 <p>3. FileZilla</p>
                 <p>4. Hadoop Hortonworks</p>
-                <p>5. Visual Code</p></td></td>
-                <!-- <td><p>hardware</p>
-                </td>
-                <td><p>deskripsi</p>
-                </td> -->
+                <p>5. Visual Code</p>
+              <!-- </td><p>HARRDWARE</p> </td>
+              </td><p>DESKRIPSI</p>  </td> -->
 
         </tr>
 
@@ -62,6 +72,10 @@
                 <p>3. Immobi Tracker</p>
                 <p>4. GitLab / GitHub</p>
                 <p>5. Google Drive</p></td></td>
+                <!-- <td><p>hardware</p>
+                </td>
+                <td> Deskripsi
+                </td> -->
         </tr>
 
         <tr>
@@ -74,6 +88,10 @@
                 <p>2. Postman</p>
                 <p>3. Xcode</p>
                 <p>4. Navicat</p>
+                <!-- <td><p>hardware</p>
+                </td>
+                <td> Deskripsi
+                </td>  -->
         </tr>
 
         <tr>
@@ -86,6 +104,10 @@
               <td><p>1. Visual Studio Code</p>
                 <p>2. Navicat</p>
                 <p>3. Android Studio</p>
+                <!-- <td><p>hardware</p>
+                </td>
+                <td> Deskripsi
+                </td> -->
 
         </tr>
 
@@ -298,8 +320,9 @@
        
               <td><p>1. Google Drive</p>
                 
-        </tr>
-        </tfoot>
+        </tr> 
+        </tbody>
+</div>
 
         <script src="https://code.jquery.com/jquery-3.3.1.js"></script>
 <script src="https://cdn.datatables.net/1.10.19/js/jquery.dataTables.min.js"></script>
