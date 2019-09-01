@@ -1,44 +1,71 @@
+<!DOCTYPE html>
+<html>
 <head>
     <link rel="stylesheet" type="text/css" href="{{ asset('css/table.css') }}">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.3/css/bootstrap.css">
+    <!-- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.3/css/bootstrap.css">
     <link rel="stylesheet" href="https://cdn.datatables.net/1.10.19/css/dataTables.bootstrap4.min.css">
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"> -->
     
+    <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css">
+<script src="https://code.jquery.com/jquery-3.3.1.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js|https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.1/js/bootstrap.min.js"></script>
+
+<style type="text/css">
+
+/*optional css*/
+
+body{ padding: 20px; }
+
+</style>
+
 </head>
 
-<div class="table-responsive-sm ">
 
-<table id="example" class="table table-striped table-bordered" style="width:100%">
+<div class="table-responsive-xl ">
+<table id="example" class="table table-striped table-bordered mytable" >
         <thead>
            
-                <!-- <th>Hardware</th>
-                <th>Deskripsi Proyek</th> -->
+               
                 <tr>
                   <th scope="col">No</th>
                   <th scope="col">Nama Project</th>
                   <th scope="col">Nama karyawan</th>
                   <th scope="col">Software</th>
-                  
+                  <th scope="col">Hardware</th>
+                  <th scope="col">Deskripsi Proyek</th>
+
+                   <!-- <th></th>
+                <th></th> -->
                 </tr>
                 
 
         </thead>
 
+        <body>
+        <title>Daftar Portofolio</title>
+
+
+      <div class="topnav navbar navbar-expand-md navbar-dark bg-dark">
+        <a href="/cv">LIST CV</a>
+        <a href="/portfolio">LIST PORTFOLIO</a>
+        <a href="/signout">SIGN OUT</a>
+      </div>
+
+          
+        </body>
+
         <tbody>
 
     <!-- <h2 align="center">Daftar Portofolio projek Karyawan Magang 2019</h2> -->
-    <!-- <h1 class="display-3">Daftar Portofolio projek Karyawan Magang 2019</h1> -->
-    <title>Daftar Portofolio</title>
-
-
-        <div class="topnav">
-                <a href="/portfolio">LIST PORTFOLIO</a>
-                <a href="/cv">LIST CV</a>
-                <a href="/signout">SIGN OUT</a>
-        </div>
+   
+   
+            
             
         <tr>
-            <td>1</td>
+            <th scope="row">1</th>
+            <!-- <td>1</td> -->
             <td><a href="/assets/Big data.pdf">Big Data Exploration</a></td>
             <td><p>1. Kevin Munandar</p>
                 <p>2. Muhamad Fadel</p>
@@ -49,13 +76,16 @@
                 <p>3. FileZilla</p>
                 <p>4. Hadoop Hortonworks</p>
                 <p>5. Visual Code</p>
-              <!-- </td><p>HARRDWARE</p> </td>
-              </td><p>DESKRIPSI</p>  </td> -->
+                <td><p>hardware</p>
+                </td>
+                <td> Melakukan eksplorasi tentang big data menggunakan HortonWorks SandBox.
 
+                </td>
         </tr>
 
         <tr>
-            <td>2</td>
+            <th scope="row">2</th>
+            <!-- <td>2</td> -->
             <td><a href="/assets/muslimpocket_compressed.pdf">MuslimPocket</a>
             <td><p>1. Inez Christiani</p>
                 <p>2. Muhammad Fardiansyah</p>
@@ -72,14 +102,16 @@
                 <p>3. Immobi Tracker</p>
                 <p>4. GitLab / GitHub</p>
                 <p>5. Google Drive</p></td></td>
-                <!-- <td><p>hardware</p>
+                <td><p>hardware</p>
                 </td>
                 <td> Deskripsi
-                </td> -->
+                </td>
         </tr>
 
         <tr>
-            <td>3</td>
+            <!-- <td>3</td> -->
+            <th scope="row">3</th>
+
             <td><a href="/assets/muslimpocket_compressed.pdf">MuslimPocket(IOS)</a>
             <td><p>1. Mohammad Alhafidz Permana Baskoro </p>
                 <p>2. Inez Christiani</p>
@@ -88,14 +120,15 @@
                 <p>2. Postman</p>
                 <p>3. Xcode</p>
                 <p>4. Navicat</p>
-                <!-- <td><p>hardware</p>
+                <td><p>hardware</p>
                 </td>
                 <td> Deskripsi
-                </td>  -->
+                </td> 
         </tr>
 
         <tr>
-            <td>4</td>
+            <th scope="row">4</th>
+            <!-- <td>4</td> -->
             <td><a href="">Jaring Laut Application</a>
             <td><p>1. Inez Christiani</p>
                 <p>2. Martinus G B L Parera</p>
@@ -104,15 +137,17 @@
               <td><p>1. Visual Studio Code</p>
                 <p>2. Navicat</p>
                 <p>3. Android Studio</p>
-                <!-- <td><p>hardware</p>
+                <td><p>hardware</p>
                 </td>
-                <td> Deskripsi
-                </td> -->
+                <td> Aplikasi Jaring Laut adalah aplikasi marketplace yang bertujuan untuk menampung petani dan menghubungkannya dengan buyer.
+
+                </td>
 
         </tr>
 
         <tr>
-            <td>5</td>
+            <th scope="row">5</th>
+            <!-- <td>5</td> -->
             <td><a href="/assets/photo6260539743527872770.jpg">Immobi Tracker (Web)</a>
             <td><p>1. Mohammad Akbar</p>
                 <p>2. Bob Harwin</p>
@@ -124,30 +159,55 @@
               <td><p>1. Visual Studio Code</p>
                 <p>2. Postman</p>
                 <p>3. Navicat</p>
+                <td><p>hardware</p>
+                </td>
+                <td> Aplikasi keluaran PT Immobi Solusi Prima yang berfungsi untuk melakukan monitoring project-project yang sedang berjalan ataupun project yang sudah closed.
+
+                </td>
         </tr>
 
 
         <tr>
-            <td>6</td>
+            <th scope="row">6</th>
+            <!-- <td>6</td> -->
             <td><a href="/assets/photo6260496566221646079.jpg">Immobi Tracker (IOS)</a>
             <td><p>1. Mohammad Alhafidz Permana Baskoro </p>
+                <p>2. Aditya Pradipta</p>
 
               <td><p>1. Visual Studio Code</p>
                 <p>2. Postman</p>
                 <p>3. Xcode</p>
-        </tr>
+                <p>4. ProjectLibre</p>
+
+              <td><p>hardware</p>
+                </td>
+                <td> Aplikasi keluaran PT Immobi Solusi Prima yang berfungsi untuk melakukan monitoring project-project yang sedang berjalan ataupun project yang sudah closed.
+
+                </td>
 
         <tr>
-            <td>7</td>
+            <th scope="row">7</th>
+            <!-- <td>7</td> -->
             <td><a href="assets/brosur rating karyawan 2.jpg">Rating Karyawan (IOS)</a>
             <td><p>1. Justin Tanner </p>
-
+                <p>2. Aulia Prameswari Elyanto</p>
               <td><p>1. Xcode</p>
-                <p>2. Google Drive</p>
+                <p>2. Visual Studio Code</p>
+                <p>3. Trello</p>
+                <p>4. Terminal</p>
+                <p>5. Postman</p>
+                <p>6. GitLab/GitHub</p>
+                <p>7. Navicat</p>
+                <td><p>hardware</p>
+                </td>
+                <td> Aplikasi Rating Karyawan adalah sebuah aplikasi internal yang bertujuan untuk memberikan penilaian terhadap seluruh karyawan lewat mobile phone.
+
+                </td>
         </tr>
 
         <tr>
-            <td>8</td>
+            <th scope="row">8</th>
+            <!-- <td>8</td> -->
             <td><a href="assets/brosur rating karyawan 2.jpg">Rating Karyawan (Android)</a>
             <td><p>1. Samuel Sanjaya</p>
                 <p>2. Andri Yanto</p>
@@ -155,10 +215,16 @@
               <td><p>1. Android Studio</p>
                 <p>2. Visual Studio Code</p>
                 <p>3. Navicat</p>
+                <td><p>hardware</p>
+                </td>
+                <td> Aplikasi Rating Karyawan adalah sebuah aplikasi internal yang bertujuan untuk memberikan penilaian terhadap seluruh karyawan lewat mobile phone.
+
+                </td>
         </tr>
 
         <tr>
-            <td>9</td>
+            <th scope="row">9</th>
+            <!-- <td>9</td> -->
             <td><a href="assets/Brosur CRM (5).pdf">CRM App (Sales and Marketing App)</a>
             <td><p>1. Adlez Devha Bernandez Rakinaung</p>
                 <p>2. Andri Yanto</p>
@@ -169,11 +235,17 @@
                 <p>2. OODO</p>
                 <p>3. Android Studio</p>
                 <p>4. Navicat</p>
-                <p>5. Visual Code</p></td></td>
+                <p>5. Visual Code</p>
+                <td><p>hardware</p>
+                </td>
+                <td> Aplikasi seperti CRM yang ada di Odoo Web, dengan tambahan fitur Digital Marketing. Dibangun dengan Android Studio (Javascript, Node.JS, React.JS)
+
+                </td>
         </tr>
 
         <tr>
-            <td>10</td>
+            <th scope="row">10</th>
+            <!-- <td>10</td> -->
             <td><a href="assets/Blue Illustration Art Gallery Raffle Flyer.pdf">Data Analytics(PT. Pupuk Indonesia)</a>
             <td><p>1. Aprilia Dwi Lestari</p>
                 <p>2. Hengky</p>
@@ -183,10 +255,17 @@
               <td><p>1. Google Drive</p>
                 <p>2. Anaconda</p>
                 <p>3. Jupyter Notebook</p>
+                
+                <td><p>hardware</p>
+                </td>
+                <td> Aplikasi berbasis web yang bertujuan untuk memudahkan dalam menentukan target prioritas distribusi pupuk dan meningkatkan kualitas proses pengambilan keputusan 
+
+                </td>
         </tr>
 
         <tr>
-            <td>11</td>
+            <th scope="row">11</th>
+            <!-- <td>11</td> -->
             <td><a href="assets/Nominatif Entertaint.pdf">Nominatif Entertaint</a>
             <td><p>1. Mohammad Akbar</p>
                 <p>2. Aditya Pradipta</p>
@@ -196,10 +275,16 @@
                 <p>2. Navicat</p>
                 <p>3. Terminal</p>
                 <p>4. Postman</p>
+
+                <td><p>hardware</p>
+                </td>
+                <td> Deskripsi
+                </td>
         </tr>
 
         <tr>
-            <td>12</td>
+            <th scope="row">12</th>
+            <!-- <td>12</td> -->
             <td><a href="assets/Rekonsiliasi.pdf">Rekonsiliasi Payment Muslim Pocket</a>
             <td><p>1. Mohammad Akbar</p>
                 <p>2. Aditya Pradipta</p>
@@ -212,12 +297,18 @@
                 <p>2. Navicat</p>
                 <p>3. Terminal</p>
                 <p>4. Postman</p>
+                <td><p>hardware</p>
+                </td>
+                <td> Aplikasi untuk memonitor progres dan perkembangan status payment dan data rekap bank pada aplikasi Muslim Pocket.
+
+                </td>
 
         </tr>
 
 
         <tr>
-            <td>13</td>
+            <th scope="row">13</th>
+            <!-- <td>13</td> -->
             <td><a href="">Redsite Project</a>
             <td><p>1. Kevin Munandar</p>
                 <p>2. Muhamad Fadel</p>
@@ -228,12 +319,17 @@
                 <p>2. Navicat</p>
                   <p>3. Google Drive</p>
                   <p>4. Visual Studio Code</p>
+                  <td><p>hardware</p>
+                </td>
+                <td> Redsite Project adalah proyek data validasi untuk optimisasi signal di site.
 
-              
+                </td>
+
         </tr>
 
         <tr>
-            <td>14</td>
+            <th scope="row">14</th>
+            <!-- <td>14</td> -->
             <td><a href="">Connecta Phase 2 </a>
             <td><p>1. Muhammad Akbar</p>
                 <p>2. Samuel Sanjaya</p>
@@ -245,24 +341,38 @@
                 <p>3. Visual Studio Code</p>
                 <p>4. Immobi Tracker</p>
 
+                <td><p>hardware</p>
+                </td>
+                <td> <p>Sebuah web untuk memantau dan melakukan optimalisasi pada jaringan berdasarkan indikator yang terdapat dalam modul - modul connecta.
+                    </p>
+                </td>
+
         </tr>
 
         <tr>
-            <td>15</td>
+            <th scope="row">15</th>
+            <!-- <td>15</td> -->
             <td><a href="">Artemis II Phase 2</a>
             <td><p>1. Adrian Hartanto</p>
                 <p>2. Ivander Reyner Suryohadi</p>
                 <p>3. Aditya Pradipta</p>
                 <p>4. Muhammad Fardiansyah</p>
-                
+
 
               <td><p>1. Visual Studio Code</p>
                 <p>2. Immobi Tracker</p>
 
+                <td><p>hardware</p>
+                </td>
+                <td> Mengerjakan task task terkait artemis yang diberikan oleh senior programmer
+
+                </td>
+
         </tr>
 
         <tr>
-            <td>16</td>
+            <th scope="row">16</th>
+            <!-- <td>16</td> -->
             <td><a href="">Panduan Haji & Umroh (Android)</a>
             <td><p>1. Stephanie Wilhelmina</p>
                 <p>2. Martinus G B L Parera</p>
@@ -274,11 +384,17 @@
                 <p>2. Android Studio</p>
                 <p>3. Immobi Tracker</p>
 
+                <td><p>hardware</p>
+                </td>
+                <td> Aplikasi Panduan Haji & Umroh adalah aplikasi berbasis android yang memiliki fitur Al-Quran, panduan Haji dan Umroh.
+
+                </td>
 
         </tr>
 
         <tr>
-            <td>17</td>
+            <th scope="row">17</th>
+            <!-- <td>17</td> -->
             <td><a href="">Ayo Nyoblos</a>
             <td><p>1. Muhammad Akbar</p>
                 <p>2. Aditya Pradipta</p>
@@ -292,11 +408,17 @@
                 <p>6. Terminal</p>
                 <p>7. Immobi Tracker</p>
 
+                <td><p>hardware</p>
+                </td>
+                <td> <p>Aplikasi ini berbasis web yang bertujuan sebagai wujud kepedulian untuk membantu Indonesia melaksanakan Pilpres dan Pileg yang lancar
+                   dan minim golput. </p>
+                </td>
         </tr>
 
         
         <tr>
-            <td>18</td>
+            <th scope="row">18</th>
+            <!-- <td>18</td> -->
             <td><a href="">Cellcom Malaysia</a>
             <td><p>1. Muhammad Fadel</p>
                 <p>2. Chalvin Surya Dinata</p>
@@ -310,30 +432,59 @@
                 <p>3. Immobi Tracker</p>
                 <p>4. Google Drive</p>
 
+                <td><p>hardware</p>
+                </td>
+                <td> Mengumpulkan dan memproses data yang diambil dari Ookla dan OpenSignal di region Malaysia menggunakan data Cellcom.
+
+                </td>
         </tr>
 
         <tr>
-            <td>19</td>
+            <th scope="row">19</th>
+            <!-- <td>19</td> -->
             <td><a href="">Incubator : Angel Investment</a>
             <td><p>1. Justin Tanner</p>
                 <p>2. Adlez Devha Bernandez Rakinaung</p>
        
               <td><p>1. Google Drive</p>
                 
+              <td><p>hardware</p>
+                </td>
+                <td> Deskripsi
+                </td>
         </tr> 
         </tbody>
-</div>
+        </div>
 
-        <script src="https://code.jquery.com/jquery-3.3.1.js"></script>
+
+<!-- <script src="https://code.jquery.com/jquery-3.3.1.js"></script>
 <script src="https://cdn.datatables.net/1.10.19/js/jquery.dataTables.min.js"></script>
 <script src="https://cdn.datatables.net/1.10.19/js/dataTables.bootstrap4.min.js"></script>
+
 
 
     <script>
     $(document).ready(function() {
     $('#example').DataTable();
 } );
+</script> -->
+
+<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.19/css/dataTables.bootstrap4.min.css">
+<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/responsive/2.2.3/css/responsive.bootstrap4.min.css">
+<script src="https://cdn.datatables.net/1.10.19/js/jquery.dataTables.min.js"></script>
+<script  src="https://cdn.datatables.net/1.10.19/js/dataTables.bootstrap4.min.js"></script>
+<script  src="https://cdn.datatables.net/responsive/2.2.3/js/dataTables.responsive.min.js"></script>
+<script  src="https://cdn.datatables.net/responsive/2.2.3/js/responsive.bootstrap4.min.js"></script>
+
+
+<script type="text/javascript">
+$('.mytable').dataTable( {
+
+"responsive" : true
+} );
+</script>
 
     
-    </script>
+    
     </table>
+</html>

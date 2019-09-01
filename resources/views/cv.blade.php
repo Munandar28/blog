@@ -1,13 +1,29 @@
+<!DOCTYPE html>
+<html>
 <head>
     <link rel="stylesheet" type="text/css" href="{{ asset('css/table.css') }}">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.3/css/bootstrap.css">
-    <link rel="stylesheet" href="https://cdn.datatables.net/1.10.19/css/dataTables.bootstrap4.min.css">
+    <!-- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.3/css/bootstrap.css">
+    <link rel="stylesheet" href="https://cdn.datatables.net/1.10.19/css/dataTables.bootstrap4.min.css"> -->
+
+    <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css">
+<script src="https://code.jquery.com/jquery-3.3.1.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js|https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.1/js/bootstrap.min.js"></script>
+
+<style type="text/css">
+
+/*optional css*/
+
+body{ padding: 20px; }
+
+</style>
 
 </head>
 
-<div class="table-responsive-sm">
+<div class="table-responsive-xl">
 
-<table id="example" class="table table-striped table-bordered" style="width:100%">
+<table id="example" class="table table-striped table-bordered mytable" >
         <thead>
             <tr>
                 <th>No</th>
@@ -20,15 +36,14 @@
         <tbody>
 
     <!-- <h2 align="center">Daftar CV Karyawan Magang 2019</h2> -->
-    <title>Daftar CV</title>    
+    <title>Daftar CV</title>   
 
-
-        <div class="topnav">
+        <div class="topnav navbar navbar-expand-md navbar-dark bg-dark">
         <a href="/cv">LIST CV</a>
         <a href="/portfolio">LIST PORTFOLIO</a>
         <a href="/signout">SIGN OUT</a>
     </div>
-            <tr>
+           
             <!-- <td>1</td> -->
             <th scope="row">1</th>
             <td>Kevin Munandar</td>
@@ -417,7 +432,7 @@
         </tfoot>
         <</div>
 
-        <script src="https://code.jquery.com/jquery-3.3.1.js"></script>
+        <!-- <script src="https://code.jquery.com/jquery-3.3.1.js"></script>
 <script src="https://cdn.datatables.net/1.10.19/js/jquery.dataTables.min.js"></script>
 <script src="https://cdn.datatables.net/1.10.19/js/dataTables.bootstrap4.min.js"></script>
 
@@ -425,7 +440,23 @@
     <script>
     $(document).ready(function() {
     $('#example').DataTable();
+} ); -->
+
+<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.19/css/dataTables.bootstrap4.min.css">
+<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/responsive/2.2.3/css/responsive.bootstrap4.min.css">
+<script src="https://cdn.datatables.net/1.10.19/js/jquery.dataTables.min.js"></script>
+<script  src="https://cdn.datatables.net/1.10.19/js/dataTables.bootstrap4.min.js"></script>
+<script  src="https://cdn.datatables.net/responsive/2.2.3/js/dataTables.responsive.min.js"></script>
+<script  src="https://cdn.datatables.net/responsive/2.2.3/js/responsive.bootstrap4.min.js"></script>
+
+
+<script type="text/javascript">
+$('.mytable').dataTable( {
+
+"responsive" : true
 } );
+</script>
+
 
     
     </script>
