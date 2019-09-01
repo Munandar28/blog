@@ -29,7 +29,7 @@ body{ padding: 20px; }
                 <th>No</th>
                 <th>Nama</th>
                 <th>Projek</th>
-                <th>Tools</th>
+                <th>Software</th>
                 <th>Link CV(PDF)</th>
             </tr>
         </thead>
@@ -61,7 +61,7 @@ body{ padding: 20px; }
                 <p>7. FileZilla</p>
                 <p>8. Hadoop Hortonworks</p>
                 <p>9. Google Drive</p></td>
-            <td><a href="/assets/Kevin's Resume.pdf">Resume</a></td>
+            <td><a href="/assets/Kevin's Resume.pdf"><p>Resume</p> </a></td>
             </tr>
 
             <tr>

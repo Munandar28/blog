@@ -78,8 +78,8 @@ body{ padding: 20px; }
                 <p>5. Visual Code</p>
                 <td><p>hardware</p>
                 </td>
-                <td> Melakukan eksplorasi tentang big data menggunakan HortonWorks SandBox.
-
+                <td> <p>Melakukan eksplorasi tentang big data menggunakan HortonWorks SandBox.
+</p> 
                 </td>
         </tr>
 
@@ -139,8 +139,8 @@ body{ padding: 20px; }
                 <p>3. Android Studio</p>
                 <td><p>hardware</p>
                 </td>
-                <td> Aplikasi Jaring Laut adalah aplikasi marketplace yang bertujuan untuk menampung petani dan menghubungkannya dengan buyer.
-
+                <td> <p>Aplikasi Jaring Laut adalah aplikasi marketplace yang bertujuan untuk menampung petani dan menghubungkannya dengan buyer.
+</p> 
                 </td>
 
         </tr>
@@ -161,8 +161,8 @@ body{ padding: 20px; }
                 <p>3. Navicat</p>
                 <td><p>hardware</p>
                 </td>
-                <td> Aplikasi keluaran PT Immobi Solusi Prima yang berfungsi untuk melakukan monitoring project-project yang sedang berjalan ataupun project yang sudah closed.
-
+                <td> <p>Aplikasi keluaran PT Immobi Solusi Prima yang berfungsi untuk melakukan monitoring project-project yang sedang berjalan ataupun project yang sudah closed.
+</p> 
                 </td>
         </tr>
 
@@ -181,8 +181,8 @@ body{ padding: 20px; }
 
               <td><p>hardware</p>
                 </td>
-                <td> Aplikasi keluaran PT Immobi Solusi Prima yang berfungsi untuk melakukan monitoring project-project yang sedang berjalan ataupun project yang sudah closed.
-
+                <td> <p>Aplikasi keluaran PT Immobi Solusi Prima yang berfungsi untuk melakukan monitoring project-project yang sedang berjalan ataupun project yang sudah closed.
+</p> 
                 </td>
 
         <tr>
@@ -200,8 +200,8 @@ body{ padding: 20px; }
                 <p>7. Navicat</p>
                 <td><p>hardware</p>
                 </td>
-                <td> Aplikasi Rating Karyawan adalah sebuah aplikasi internal yang bertujuan untuk memberikan penilaian terhadap seluruh karyawan lewat mobile phone.
-
+                <td> <p>Aplikasi Rating Karyawan adalah sebuah aplikasi internal yang bertujuan untuk memberikan penilaian terhadap seluruh karyawan lewat mobile phone.
+</p> 
                 </td>
         </tr>
 
@@ -217,8 +217,8 @@ body{ padding: 20px; }
                 <p>3. Navicat</p>
                 <td><p>hardware</p>
                 </td>
-                <td> Aplikasi Rating Karyawan adalah sebuah aplikasi internal yang bertujuan untuk memberikan penilaian terhadap seluruh karyawan lewat mobile phone.
-
+                <td> <p>Aplikasi Rating Karyawan adalah sebuah aplikasi internal yang bertujuan untuk memberikan penilaian terhadap seluruh karyawan lewat mobile phone.
+</p> 
                 </td>
         </tr>
 
@@ -238,8 +238,8 @@ body{ padding: 20px; }
                 <p>5. Visual Code</p>
                 <td><p>hardware</p>
                 </td>
-                <td> Aplikasi seperti CRM yang ada di Odoo Web, dengan tambahan fitur Digital Marketing. Dibangun dengan Android Studio (Javascript, Node.JS, React.JS)
-
+                <td> <p>Aplikasi seperti CRM yang ada di Odoo Web, dengan tambahan fitur Digital Marketing. Dibangun dengan Android Studio (Javascript, Node.JS, React.JS)
+</p> 
                 </td>
         </tr>
 
@@ -258,8 +258,8 @@ body{ padding: 20px; }
                 
                 <td><p>hardware</p>
                 </td>
-                <td> Aplikasi berbasis web yang bertujuan untuk memudahkan dalam menentukan target prioritas distribusi pupuk dan meningkatkan kualitas proses pengambilan keputusan 
-
+                <td> <p>Aplikasi berbasis web yang bertujuan untuk memudahkan dalam menentukan target prioritas distribusi pupuk dan meningkatkan kualitas proses pengambilan keputusan 
+</p> 
                 </td>
         </tr>
 
@@ -299,8 +299,8 @@ body{ padding: 20px; }
                 <p>4. Postman</p>
                 <td><p>hardware</p>
                 </td>
-                <td> Aplikasi untuk memonitor progres dan perkembangan status payment dan data rekap bank pada aplikasi Muslim Pocket.
-
+                <td> <p>Aplikasi untuk memonitor progres dan perkembangan status payment dan data rekap bank pada aplikasi Muslim Pocket.
+</p> 
                 </td>
 
         </tr>
@@ -321,8 +321,8 @@ body{ padding: 20px; }
                   <p>4. Visual Studio Code</p>
                   <td><p>hardware</p>
                 </td>
-                <td> Redsite Project adalah proyek data validasi untuk optimisasi signal di site.
-
+                <td> <p>Redsite Project adalah proyek data validasi untuk optimisasi signal di site.
+</p> 
                 </td>
 
         </tr>
@@ -364,7 +364,7 @@ body{ padding: 20px; }
 
                 <td><p>hardware</p>
                 </td>
-                <td> Mengerjakan task task terkait artemis yang diberikan oleh senior programmer
+                <td> <p>Mengerjakan task task terkait artemis yang diberikan oleh senior programmer</p> 
 
                 </td>
 
@@ -386,7 +386,7 @@ body{ padding: 20px; }
 
                 <td><p>hardware</p>
                 </td>
-                <td> Aplikasi Panduan Haji & Umroh adalah aplikasi berbasis android yang memiliki fitur Al-Quran, panduan Haji dan Umroh.
+                <td> <p>Aplikasi Panduan Haji & Umroh adalah aplikasi berbasis android yang memiliki fitur Al-Quran, panduan Haji dan Umroh.</p> 
 
                 </td>
 
@@ -434,8 +434,8 @@ body{ padding: 20px; }
 
                 <td><p>hardware</p>
                 </td>
-                <td> Mengumpulkan dan memproses data yang diambil dari Ookla dan OpenSignal di region Malaysia menggunakan data Cellcom.
-
+                <td> <p>Mengumpulkan dan memproses data yang diambil dari Ookla dan OpenSignal di region Malaysia menggunakan data Cellcom.
+</p> 
                 </td>
         </tr>
 
