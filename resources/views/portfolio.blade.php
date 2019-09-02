@@ -480,6 +480,31 @@ body{ padding: 20px; }
                 <td> Deskripsi
                 </td>
         </tr> 
+
+        
+        <tr>
+            <th scope="row">20</th>
+            <!-- <td>13</td> -->
+            <td><a href="assets/Porfolio OSS.PDF">OSS Project</a>
+            <td><p>1. Kevin Munandar</p>
+                <p>2. Muhamad Fadel</p>
+                <p>3. Chalvin Surya Dinata</p>
+                <p>4. Maykel Wongkar</p>
+                <p>5. Aulia Prameswari Elyanto</p>
+
+              <td><p>1. Apache Airflow</p>
+                <p>2. Navicat</p>
+                  <p>3. Google Drive</p>
+                  <p>4. Visual Studio Code</p>
+                  <p>5. Filezilla</p>
+                  <p>6. Immobi Tracker</p>
+                  <td><p>hardware</p>
+                </td>
+                <td> <p>OSS Project adalah proyek data validasi untuk optimisasi signal di site.</p> 
+                </td>
+
+        </tr>
+
         </tbody>
         </div>
 
