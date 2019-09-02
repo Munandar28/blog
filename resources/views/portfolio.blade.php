@@ -35,7 +35,7 @@ body{ padding: 20px; }
                   <th scope="col">Software</th>
                   <th scope="col">Hardware</th>
                   <th scope="col">Deskripsi Proyek</th>
-
+                  <th scope="col">Link Flyer(PDF)</th>
                    <!-- <th></th>
                 <th></th> -->
                 </tr>
@@ -65,7 +65,7 @@ body{ padding: 20px; }
   <!-- Nav pills -->
   <ul class="nav nav-pills" role="tablist">
     <li class="nav-item">
-      <a class="nav-link " data-toggle="pill" href="/cv">List CV</a>
+      <a class="nav-link " data-toggle="pill" href="/cv">List Resume</a>
     </li>
     <li class="nav-item">
       <a class="nav-link active" data-toggle="pill" href="/portfolio">LIST PORTFOLIO</a>
@@ -93,7 +93,7 @@ body{ padding: 20px; }
         <tr>
             <th scope="row">1</th>
             <!-- <td>1</td> -->
-            <td><a href="assets/Portfolio BigData.pdf">Big Data Exploration</a></td>
+            <td>Big Data Exploration</td>
             <td style="white-space:nowrap;" ><p>1. Kevin Munandar</p>
                 <p>2. Muhamad Fadel</p>
                 <p>3. Maykel Wongkar</p>
@@ -108,12 +108,13 @@ body{ padding: 20px; }
                 <td> <p>Melakukan eksplorasi tentang big data menggunakan HortonWorks SandBox.
 </p> 
                 </td>
+                <td><a href="assets/Portfolio BigData.pdf">Flyer</a></td>
         </tr>
 
         <tr>
             <th scope="row">2</th>
             <!-- <td>2</td> -->
-            <td><a href="/assets/muslimpocket_compressed.pdf">MuslimPocket</a>
+            <td>MuslimPocket</td>
              <td style="white-space:nowrap;" ><p>1. Inez Christiani</p>
                 <p>2. Muhammad Fardiansyah</p>
                 <p>3. Muhammad Farid Wajidi</p>
@@ -133,13 +134,14 @@ body{ padding: 20px; }
                 </td>
                 <td> <p>Muslimpocket adalah sebuah aplikasi mobile yang akan mendampingi ibadah Umat Muslim di Indonesia. Hanya dengan menginstall aplikasi ini, kamu bisa menemukan masjid di sekitar mu, berbincang dengan ustadz , mengingatkan waktu shalat , dsb</p>
                 </td>
+                <td><a href="/assets/muslimpocket_compressed.pdf">Flyer</a>
         </tr>
 
         <tr>
             <!-- <td>3</td> -->
             <th scope="row">3</th>
 
-            <td><a href="/assets/muslimpocket_compressed.pdf">MuslimPocket(IOS)</a>
+            <td>MuslimPocket(IOS)
             <td><p>1. Mohammad Alhafidz Permana Baskoro </p>
                 <p>2. Inez Christiani</p>
 
@@ -150,13 +152,14 @@ body{ padding: 20px; }
                 <td><p>hardware</p>
                 </td>
                 <td> <p>Muslimpocket adalah sebuah aplikasi mobile yang akan mendampingi ibadah Umat Muslim di Indonesia. Hanya dengan menginstall aplikasi ini, kamu bisa menemukan masjid di sekitar mu, berbincang dengan ustadz , mengingatkan waktu shalat , dsb</p>
-                </td> 
+                </td>
+                <td><a href="/assets/muslimpocket_compressed.pdf">Flyer</a>
         </tr>
 
-        <tr>
-            <th scope="row">4</th>
+        <!-- <tr>
+            <th scope="row">4</th> -->
             <!-- <td>4</td> -->
-            <td><a href="">Jaring Laut Application</a>
+            <!-- <td><a href="">Jaring Laut Application</a>
             <td><p>1. Inez Christiani</p>
                 <p>2. Martinus G B L Parera</p>
                 <p>3. Stephanie Wilhelmina</p>
@@ -170,12 +173,12 @@ body{ padding: 20px; }
 </p> 
                 </td>
 
-        </tr>
+        </tr> -->
 
         <tr>
-            <th scope="row">5</th>
+            <th scope="row">4</th>
             <!-- <td>5</td> -->
-            <td><a href="/assets/photo6260539743527872770.jpg">Immobi Tracker (Web)</a>
+            <td>Immobi Tracker (Web)
             <td><p>1. Mohammad Akbar</p>
                 <p>2. Bob Harwin</p>
                 <p>3. Adrian Hartanto </p>
@@ -191,13 +194,14 @@ body{ padding: 20px; }
                 <td> <p>Aplikasi keluaran PT Immobi Solusi Prima yang berfungsi untuk melakukan monitoring project-project yang sedang berjalan ataupun project yang sudah closed.
 </p> 
                 </td>
+                <td><a href="/assets/photo6260539743527872770.jpg">Flyer</a>
         </tr>
 
 
         <tr>
-            <th scope="row">6</th>
+            <th scope="row">5</th>
             <!-- <td>6</td> -->
-            <td><a href="/assets/photo6260496566221646079.jpg">Immobi Tracker (IOS)</a>
+            <td>Immobi Tracker (IOS)
             <td><p>1. Mohammad Alhafidz Permana Baskoro </p>
                 <p>2. Aditya Pradipta</p>
 
@@ -211,11 +215,12 @@ body{ padding: 20px; }
                 <td> <p>Aplikasi keluaran PT Immobi Solusi Prima yang berfungsi untuk melakukan monitoring project-project yang sedang berjalan ataupun project yang sudah closed.
 </p> 
                 </td>
+                <td><a href="/assets/photo6260496566221646079.jpg">Flyer</a>
 
         <tr>
-            <th scope="row">7</th>
+            <th scope="row">6</th>
             <!-- <td>7</td> -->
-            <td><a href="assets/brosur rating karyawan 2.jpg">Rating Karyawan (IOS)</a>
+            <td>Rating Karyawan (IOS)
             <td><p>1. Justin Tanner </p>
                 <p>2. Aulia Prameswari Elyanto</p>
               <td><p>1. Xcode</p>
@@ -230,12 +235,13 @@ body{ padding: 20px; }
                 <td> <p>Aplikasi Rating Karyawan adalah sebuah aplikasi internal yang bertujuan untuk memberikan penilaian terhadap seluruh karyawan lewat mobile phone.
 </p> 
                 </td>
+                <td><a href="assets/brosur rating karyawan 2.jpg">Flyer</a>
         </tr>
 
         <tr>
-            <th scope="row">8</th>
+            <th scope="row">7</th>
             <!-- <td>8</td> -->
-            <td><a href="assets/brosur rating karyawan 2.jpg">Rating Karyawan (Android)</a>
+            <td>Rating Karyawan (Android)
             <td><p>1. Samuel Sanjaya</p>
                 <p>2. Andri Yanto</p>
 
@@ -247,12 +253,13 @@ body{ padding: 20px; }
                 <td> <p>Aplikasi Rating Karyawan adalah sebuah aplikasi internal yang bertujuan untuk memberikan penilaian terhadap seluruh karyawan lewat mobile phone.
 </p> 
                 </td>
+                <td><a href="assets/brosur rating karyawan 2.jpg">Rating Karyawan (Android)</a>
         </tr>
 
         <tr>
-            <th scope="row">9</th>
+            <th scope="row">8</th>
             <!-- <td>9</td> -->
-            <td><a href="assets/Brosur CRM (5).pdf">CRM App (Sales and Marketing App)</a>
+            <td>CRM App (Sales and Marketing App)
             <td><p>1. Adlez Devha Bernandez Rakinaung</p>
                 <p>2. Andri Yanto</p>
                 <p>3. Hestiara Agatha</p>
@@ -268,12 +275,13 @@ body{ padding: 20px; }
                 <td> <p>Aplikasi seperti CRM yang ada di Odoo Web, dengan tambahan fitur Digital Marketing. Dibangun dengan Android Studio (Javascript, Node.JS, React.JS)
 </p> 
                 </td>
+                <td><a href="assets/Brosur CRM (5).pdf">Flyer</a>
         </tr>
 
         <tr>
-            <th scope="row">10</th>
+            <th scope="row">9</th>
             <!-- <td>10</td> -->
-            <td><a href="assets/Portfolio Data Analyst.pdf">Data Analytics(PT. Pupuk Indonesia)</a>
+            <td>Data Analytics(PT. Pupuk Indonesia)
             <td><p>1. Aprilia Dwi Lestari</p>
                 <p>2. Hengky</p>
                 <p>3. Krisna Fernando</p>
@@ -288,12 +296,13 @@ body{ padding: 20px; }
                 <td> <p>Aplikasi berbasis web yang bertujuan untuk memudahkan dalam menentukan target prioritas distribusi pupuk dan meningkatkan kualitas proses pengambilan keputusan 
 </p> 
                 </td>
+                <td><a href="assets/Portfolio Data Analyst.pdf">Flyer</a>
         </tr>
 
         <tr>
-            <th scope="row">11</th>
+            <th scope="row">10</th>
             <!-- <td>11</td> -->
-            <td><a href="assets/Nominatif Entertaint.pdf">Nominatif Entertaint</a>
+            <td>Nominatif Entertaint
             <td><p>1. Mohammad Akbar</p>
                 <p>2. Aditya Pradipta</p>
                 <p>3. Bob Harwin</p>
@@ -307,12 +316,13 @@ body{ padding: 20px; }
                 </td>
                 <td> <p>Nominatif Entertaint adalah sebuah aplikasi yang bertujuan sebagai sarana untuk klaim entertaint secara online melalui aplikasi berbasis website yang diperuntukan untuk karyawankaryawan Immobi.Apps Nominatif Entertaint terdapat fitur Rekam dan Rekap Nominatif Entertaint. Masing-masing dari fitur diharapkan mampu menunjang kegiatan klaim entertaint pada karyawan Immobi.</p>
                 </td>
+                <td><a href="assets/Nominatif Entertaint.pdf">Flyer</a>
         </tr>
 
         <tr>
             <th scope="row">12</th>
             <!-- <td>12</td> -->
-            <td><a href="assets/Rekonsiliasi.pdf">Rekonsiliasi Payment Muslim Pocket</a>
+            <td>Rekonsiliasi Payment Muslim Pocket
             <td><p>1. Mohammad Akbar</p>
                 <p>2. Aditya Pradipta</p>
                 <p>3. Bob Harwin</p>
@@ -329,14 +339,14 @@ body{ padding: 20px; }
                 <td> <p>Aplikasi untuk memonitor progres dan perkembangan status payment dan data rekap bank pada aplikasi Muslim Pocket.
 </p> 
                 </td>
-
+                <td><a href="assets/Rekonsiliasi.pdf">Flyer</a>
         </tr>
 
 
         <tr>
-            <th scope="row">13</th>
+            <th scope="row">12</th>
             <!-- <td>13</td> -->
-            <td><a href="">Redsite Project</a>
+            <td>Redsite Project
             <td><p>1. Kevin Munandar</p>
                 <p>2. Muhamad Fadel</p>
                 <p>3. Adlez Devha Bernandez Rakinaung</p>
@@ -351,13 +361,13 @@ body{ padding: 20px; }
                 <td> <p>Redsite Project adalah proyek data validasi untuk optimisasi signal di site.
 </p> 
                 </td>
-
+                <td><a href="">Flyer</a>
         </tr>
 
         <tr>
-            <th scope="row">14</th>
+            <th scope="row">13</th>
             <!-- <td>14</td> -->
-            <td><a href="assets/Portofolio Connecta phase II.pdf">Connecta Phase 2 </a>
+            <td>Connecta Phase 2 
             <td><p>1. Muhammad Akbar</p>
                 <p>2. Samuel Sanjaya</p>
                 <p>3. Aditya Pradipta</p>
@@ -373,13 +383,13 @@ body{ padding: 20px; }
                 <td> <p>Sebuah web untuk memantau dan melakukan optimalisasi pada jaringan berdasarkan indikator yang terdapat dalam modul - modul connecta.
                     </p>
                 </td>
-
+                <td><a href="assets/Portofolio Connecta phase II.pdf">Flyer</a>
         </tr>
 
-        <tr>
-            <th scope="row">15</th>
+        <!-- <tr>
+            <th scope="row">14</th> -->
             <!-- <td>15</td> -->
-            <td><a href="">Artemis II Phase 2</a>
+            <!-- <td><a href="">Artemis II Phase 2</a>
             <td><p>1. Adrian Hartanto</p>
                 <p>2. Ivander Reyner Suryohadi</p>
                 <p>3. Aditya Pradipta</p>
@@ -395,10 +405,10 @@ body{ padding: 20px; }
 
                 </td>
 
-        </tr>
+        </tr> -->
 
         <tr>
-            <th scope="row">16</th>
+            <th scope="row">14</th>
             <!-- <td>16</td> -->
             <td><a href="">Panduan Haji & Umroh (Android)</a>
             <td><p>1. Stephanie Wilhelmina</p>
@@ -416,17 +426,16 @@ body{ padding: 20px; }
                 <td> <p>Aplikasi Panduan Haji & Umroh adalah aplikasi berbasis android yang memiliki fitur Al-Quran, panduan Haji dan Umroh.</p> 
 
                 </td>
-
+                <td><a href="">Flyer</a>
         </tr>
 
         <tr>
-            <th scope="row">17</th>
+            <th scope="row">15</th>
             <!-- <td>17</td> -->
-            <td><a href="assets/Portofolio Yoaynyoblos .pdf">Ayo Nyoblos</a>
+            <td>Ayo Nyoblos
             <td><p>1. Muhammad Akbar</p>
                 <p>2. Aditya Pradipta</p>
               
-
               <td><p>1. Eclipse</p>
                 <p>2. Postman</p>
                 <p>3. Navicat</p>
@@ -440,19 +449,19 @@ body{ padding: 20px; }
                 <td> <p>Aplikasi ini berbasis web yang bertujuan sebagai wujud kepedulian untuk membantu Indonesia melaksanakan Pilpres dan Pileg yang lancar
                    dan minim golput. </p>
                 </td>
+                <td><a href="assets/Portofolio Yoaynyoblos .pdf">Flyer</a>
         </tr>
 
         
         <tr>
-            <th scope="row">18</th>
+            <th scope="row">16</th>
             <!-- <td>18</td> -->
-            <td><a href="">Cellcom Malaysia</a>
+            <td>Cellcom Malaysia
             <td><p>1. Muhammad Fadel</p>
                 <p>2. Chalvin Surya Dinata</p>
                 <p>3. Kevin Munandar</p>
                 <p>4. Maykel Adhitia Wongkar</p>
                 <p>5. Aditya Pradipta</p>
-
 
               <td><p>1. Filezilla</p>
                 <p>2. Navicat</p>
@@ -464,12 +473,13 @@ body{ padding: 20px; }
                 <td> <p>Mengumpulkan dan memproses data yang diambil dari Ookla dan OpenSignal di region Malaysia menggunakan data Cellcom.
 </p> 
                 </td>
+                <td><a href="">Flyer</a>
         </tr>
 
         <tr>
-            <th scope="row">19</th>
+            <th scope="row">17</th>
             <!-- <td>19</td> -->
-            <td><a href="assets/Portfolio Inkubasi perusahaan.pdf">Incubator : Angel Investment</a>
+            <td>Incubator : Angel Investment
             <td><p>1. Justin Tanner</p>
                 <p>2. Adlez Devha Bernandez Rakinaung</p>
        
@@ -479,13 +489,14 @@ body{ padding: 20px; }
                 </td>
                 <td> <p>Melakukan inkubasi perusahaan yang berfokus pada produk atau perusahaan digital startup. Yang dimana, explorasi dan analisis dilakukan terhadap perusahaan atau produk yang memiliki potensi untuk dilakukannya investasi oleh P.T Immobi.</p>
                 </td>
+                <td><a href="assets/Portfolio Inkubasi perusahaan.pdf">Flyer</a>
         </tr> 
 
         
         <tr>
-            <th scope="row">20</th>
+            <th scope="row">18</th>
             <!-- <td>13</td> -->
-            <td><a href="assets/Porfolio OSS.PDF">OSS Project</a>
+            <td>OSS Project
             <td><p>1. Kevin Munandar</p>
                 <p>2. Muhamad Fadel</p>
                 <p>3. Chalvin Surya Dinata</p>
@@ -502,6 +513,7 @@ body{ padding: 20px; }
                 </td>
                 <td> <p>OSS adalah projek integrasi data dimana data-data yang dibutuhkan diambil secara otomatis</p> 
                 </td>
+                <td><a href="assets/Porfolio OSS.PDF">Flyer</a>
 
         </tr>
 
