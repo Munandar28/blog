@@ -357,7 +357,7 @@ body{ padding: 20px; }
         <tr>
             <th scope="row">14</th>
             <!-- <td>14</td> -->
-            <td><a href="">Connecta Phase 2 </a>
+            <td><a href="assets/Portofolio Connecta phase II.pdf">Connecta Phase 2 </a>
             <td><p>1. Muhammad Akbar</p>
                 <p>2. Samuel Sanjaya</p>
                 <p>3. Aditya Pradipta</p>
@@ -422,7 +422,7 @@ body{ padding: 20px; }
         <tr>
             <th scope="row">17</th>
             <!-- <td>17</td> -->
-            <td><a href="">Ayo Nyoblos</a>
+            <td><a href="assets/Portofolio Yoaynyoblos .pdf">Ayo Nyoblos</a>
             <td><p>1. Muhammad Akbar</p>
                 <p>2. Aditya Pradipta</p>
               
