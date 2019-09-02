@@ -260,7 +260,8 @@ body{ padding: 20px; }
                 <p>3. Navicat</p>
                 <p>4. Terminal</p>
                 <p>5. GitLab / GitHub</p>
-            <td> <a href="/assets/Cv_akbar2019.pdf">Resume</a> </td>
+            <td> <a href="/assets/Cv_akbar2019.pdf">Resume</a>
+            <a href="/assets/CV Immobi Format Akbar.pdf"><p>Resume(Immobi Format)</p></a></td>
         </tr>
 
         <tr>
