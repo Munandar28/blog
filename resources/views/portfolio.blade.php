@@ -477,7 +477,7 @@ body{ padding: 20px; }
                 
               <td><p>hardware</p>
                 </td>
-                <td> Deskripsi
+                <td> <p>Melakukan inkubasi perusahaan yang berfokus pada produk atau perusahaan digital startup. Yang dimana, explorasi dan analisis dilakukan terhadap perusahaan atau produk yang memiliki potensi untuk dilakukannya investasi oleh P.T Immobi.</p>
                 </td>
         </tr> 
 
