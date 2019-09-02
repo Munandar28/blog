@@ -118,7 +118,7 @@ body{ padding: 20px; }
         <tr>
             <!-- <td>3</td> -->
             <th scope="row">3</th>
-            <td>Maykel Wongkar</td>
+            <td>Maykel Wongkar <p class="text-success">[HIRED]</p></td>
             <td><p>1. Big Data Exploration</p>
                 <p>2. Rekonsiliasi Payment Muslim Pocket</p>
                 <p>3. OSS Project</p>
@@ -184,7 +184,7 @@ body{ padding: 20px; }
         
             <th scope="row">6</th>
             <!-- <td>6</td> -->
-            <td>Inez Christiani</td>
+            <td>Inez Christiani <p class="text-success">[HIRED]</p></td>
             <td><p>1. MuslimPocket(iOS)</p>
                 <p>2. Jaring Laut Application</p>
                 <p>2. Incubator : Muslim Pocket</p>
@@ -251,7 +251,7 @@ body{ padding: 20px; }
         <tr>
             <th scope="row">10</th>
             <!-- <td>10</td> -->
-            <td>Martinus G B L Parera</td>
+            <td>Martinus G B L Parera <p class="text-success">[HIRED]</p></td>
             <td><p>1. Muslim Pocket(Android)</p>
                 <p>2. Jaring Laut Application</p>
             <td><p>1. Xcode</p>
@@ -410,7 +410,7 @@ body{ padding: 20px; }
         <tr>
             <th scope="row">21</th>
             <!-- <td>21</td> -->
-            <td>Samuel Sanjaya</td>
+            <td>Samuel Sanjaya <p class="text-success">[HIRED]</p></td>
             <td><p>1. Rating Karyawan</p>
                 <p>2. CRM App(Sales and Marketing App)</p>
                 <p>3. Connecta Phase 2</p>
