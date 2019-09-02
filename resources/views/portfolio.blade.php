@@ -79,7 +79,7 @@ body{ padding: 20px; }
 
   <!-- Tab panes -->
   
-
+    <br>
           
         </body>
 
@@ -93,7 +93,7 @@ body{ padding: 20px; }
         <tr>
             <th scope="row">1</th>
             <!-- <td>1</td> -->
-            <td><a href="/assets/Big data.pdf">Big Data Exploration</a></td>
+            <td><a href="assets/Portfolio BigData.pdf">Big Data Exploration</a></td>
             <td><p>1. Kevin Munandar</p>
                 <p>2. Muhamad Fadel</p>
                 <p>3. Maykel Wongkar</p>
@@ -469,7 +469,7 @@ body{ padding: 20px; }
         <tr>
             <th scope="row">19</th>
             <!-- <td>19</td> -->
-            <td><a href="">Incubator : Angel Investment</a>
+            <td><a href="assets/Portfolio Inkubasi perusahaan.pdf">Incubator : Angel Investment</a>
             <td><p>1. Justin Tanner</p>
                 <p>2. Adlez Devha Bernandez Rakinaung</p>
        
@@ -500,7 +500,7 @@ body{ padding: 20px; }
                   <p>6. Immobi Tracker</p>
                   <td><p>hardware</p>
                 </td>
-                <td> <p>OSS Project adalah proyek data validasi untuk optimisasi signal di site.</p> 
+                <td> <p>OSS adalah projek integrasi data dimana data-data yang dibutuhkan diambil secara otomatis</p> 
                 </td>
 
         </tr>

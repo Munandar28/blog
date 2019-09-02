@@ -33,9 +33,11 @@ body{ padding: 20px; }
                 <th>Link CV(PDF)</th>
             </tr>
         </thead>
-        <tbody>
 
-    <!-- <h2 align="center">Daftar CV Karyawan Magang 2019</h2> -->
+
+
+    <body>
+        
     <title>Daftar CV</title>   
 
         <div class="topnav navbar navbar-expand-xl navbar-dark bg-dark">
@@ -57,6 +59,16 @@ body{ padding: 20px; }
 
         
     </div>
+
+    <br>
+
+    </body>
+
+
+        <tbody>
+
+    <!-- <h2 align="center">Daftar CV Karyawan Magang 2019</h2> -->
+    
            
             <!-- <td>1</td> -->
             <th scope="row">1</th>
