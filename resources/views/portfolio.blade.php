@@ -104,7 +104,7 @@ body{ padding: 20px; }
                 <p>5. Google Drive</p></td></td>
                 <td><p>hardware</p>
                 </td>
-                <td> Deskripsi
+                <td> <p>Muslimpocket adalah sebuah aplikasi mobile yang akan mendampingi ibadah Umat Muslim di Indonesia. Hanya dengan menginstall aplikasi ini, kamu bisa menemukan masjid di sekitar mu, berbincang dengan ustadz , mengingatkan waktu shalat , dsb</p>
                 </td>
         </tr>
 
@@ -122,7 +122,7 @@ body{ padding: 20px; }
                 <p>4. Navicat</p>
                 <td><p>hardware</p>
                 </td>
-                <td> Deskripsi
+                <td> <p>Muslimpocket adalah sebuah aplikasi mobile yang akan mendampingi ibadah Umat Muslim di Indonesia. Hanya dengan menginstall aplikasi ini, kamu bisa menemukan masjid di sekitar mu, berbincang dengan ustadz , mengingatkan waktu shalat , dsb</p>
                 </td> 
         </tr>
 
@@ -278,7 +278,7 @@ body{ padding: 20px; }
 
                 <td><p>hardware</p>
                 </td>
-                <td> Deskripsi
+                <td> <p>Nominatif Entertaint adalah sebuah aplikasi yang bertujuan sebagai sarana untuk klaim entertaint secara online melalui aplikasi berbasis website yang diperuntukan untuk karyawankaryawan Immobi.Apps Nominatif Entertaint terdapat fitur Rekam dan Rekap Nominatif Entertaint. Masing-masing dari fitur diharapkan mampu menunjang kegiatan klaim entertaint pada karyawan Immobi.</p>
                 </td>
         </tr>
 
