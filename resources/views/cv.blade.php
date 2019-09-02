@@ -189,7 +189,7 @@ body{ padding: 20px; }
         <tr>
             <th scope="row">8</th>
             <!-- <td>8</td> -->
-            <td>Adlez Devha Bernandez Rangkinaung</td>
+            <td>Adlez Devha Bernandez Rakinaung</td>
             <td><p>1. Redsite Project</p>
                 <p>2. CRM App (Sales and Marketing App)</p>
                 <p>3. Incubator : Angel Investment</p>
