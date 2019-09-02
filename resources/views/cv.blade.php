@@ -47,7 +47,7 @@ body{ padding: 20px; }
 
         <ul class="nav nav-pills" role="tablist">
     <li class="nav-item">
-      <a class="nav-link active" data-toggle="pill" href="/cv">List Resume</a>
+      <a class="nav-link active" data-toggle="pill" href="/cv">LIST RESUME</a>
     </li>
     <li class="nav-item">
       <a class="nav-link " data-toggle="pill" href="/portfolio">LIST PORTFOLIO</a>
