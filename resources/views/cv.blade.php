@@ -72,7 +72,7 @@ body{ padding: 20px; }
            
             <!-- <td>1</td> -->
             <th scope="row">1</th>
-            <td>Kevin Munandar</td>
+            <td style="white-space:nowrap;" >Kevin Munandar</td>
             <td><p>1. Big Data Exploration</p>
                 <p>2. CellCom Malaysia</p>
                 <p>3. OSS Project</p>

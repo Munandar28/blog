@@ -94,11 +94,11 @@ body{ padding: 20px; }
             <th scope="row">1</th>
             <!-- <td>1</td> -->
             <td><a href="assets/Portfolio BigData.pdf">Big Data Exploration</a></td>
-            <td><p>1. Kevin Munandar</p>
+            <td style="white-space:nowrap;" ><p>1. Kevin Munandar</p>
                 <p>2. Muhamad Fadel</p>
                 <p>3. Maykel Wongkar</p>
                 <p>4. Chalvin Dinata</p>
-              <td><p>1. Apache Airflow</p>
+                <td style="white-space:nowrap;" ><p>1. Apache Airflow</p>
                 <p>2. MapInfo</p>
                 <p>3. FileZilla</p>
                 <p>4. Hadoop Hortonworks</p>
@@ -114,7 +114,7 @@ body{ padding: 20px; }
             <th scope="row">2</th>
             <!-- <td>2</td> -->
             <td><a href="/assets/muslimpocket_compressed.pdf">MuslimPocket</a>
-            <td><p>1. Inez Christiani</p>
+             <td style="white-space:nowrap;" ><p>1. Inez Christiani</p>
                 <p>2. Muhammad Fardiansyah</p>
                 <p>3. Muhammad Farid Wajidi</p>
                 <p>4. Adlez Devha Bernandez Rakinaung</p>
@@ -492,7 +492,7 @@ body{ padding: 20px; }
                 <p>4. Maykel Wongkar</p>
                 <p>5. Aulia Prameswari Elyanto</p>
 
-              <td><p>1. Apache Airflow</p>
+                <td style="white-space:nowrap;" ><p>1. Apache Airflow</p>
                 <p>2. Navicat</p>
                   <p>3. Google Drive</p>
                   <p>4. Visual Studio Code</p>
