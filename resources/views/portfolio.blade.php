@@ -47,11 +47,38 @@ body{ padding: 20px; }
         <title>Daftar Portofolio</title>
 
 
-      <div class="topnav navbar navbar-expand-md navbar-dark bg-dark">
+      
+
+      
+<!-- <div class="container"> -->
+
+  <div class="topnav navbar navbar-expand-xl navbar-dark bg-dark width=100% ">
+<!--   
         <a href="/cv">LIST CV</a>
         <a href="/portfolio">LIST PORTFOLIO</a>
         <a href="/signout">SIGN OUT</a>
-      </div>
+
+        
+
+      </div> -->
+ 
+  <!-- Nav pills -->
+  <ul class="nav nav-pills" role="tablist">
+    <li class="nav-item">
+      <a class="nav-link " data-toggle="pill" href="/cv">List CV</a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link active" data-toggle="pill" href="/portfolio">LIST PORTFOLIO</a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link" data-toggle="pill" href="/signout">SIGN OUT</a>
+    </li>
+  </ul>
+  
+  </div>
+
+  <!-- Tab panes -->
+  
 
           
         </body>
