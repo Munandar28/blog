@@ -180,7 +180,8 @@ body{ padding: 20px; }
                 <p>2. Immobi Tracker</p>
                 <p>3. Google Drive</p>
 
-            <td><a href="/assets/CV - Inez Christiani.pdf">Resume</a></td>
+            <td><a href="/assets/CV - Inez Christiani.pdf"><p>Resume</p></a>
+            <a href="/assets/CV Immobi Format Inez.pdf"><p>Resume(Immobi Format)</p></a></td>
         </tr>
 
         <tr>
@@ -217,7 +218,8 @@ body{ padding: 20px; }
             <td><p>1. Trello Scrum</p>
                 <p>2. Google Drive</p>
                 <p>3. Immobi Tracker</p>
-            <td><a href="/assets/CV (Adlez D.B Rakinaung) (3).pdf">Resume</a></td>
+            <td><a href="/assets/CV (Adlez D.B Rakinaung) (3).pdf">Resume</a>
+            <a href="/assets/CV Immobi Format Adlez.pdf"><p>Resume(Immobi Format)</p></a></td>
         </tr>
 
         <tr>
@@ -260,7 +262,8 @@ body{ padding: 20px; }
                 <p>3. Navicat</p>
                 <p>4. Terminal</p>
                 <p>5. GitLab / GitHub</p>
-            <td> <a href="/assets/Cv_akbar2019.pdf">Resume</a> </td>
+            <td> <a href="/assets/Cv_akbar2019.pdf">Resume</a>
+            <a href="/assets/CV Immobi Format Akbar.pdf"><p>Resume(Immobi Format)</p></a></td>
         </tr>
 
         <tr>
@@ -316,7 +319,8 @@ body{ padding: 20px; }
             <td><p>1. Android Studio</p>
                 <p>2. Visual Studio Code</p>
                 <p>3. Navicat</p>
-            <td> <a href="/assets/hestiara-agatha-cv-resized.pdf">Resume</a> </td>
+            <td> <a href="/assets/hestiara-agatha-cv-resized.pdf"><p>Resume</p></a>
+            <a href="/assets/CV Immobi Format Hestiara.pdf"><p>Resume(Immobi Format)</p></a></td>
         </tr>
 
         <tr>
