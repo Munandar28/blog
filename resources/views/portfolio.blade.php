@@ -258,7 +258,7 @@ body{ padding: 20px; }
                 <p>3. Hestiara Agatha</p>
                 <p>4. Samuel Sanjaya</p>
 
-              <td><p>1. Google Drive</p>
+                <td style="white-space:nowrap;" ><p>1. Google Drive</p>
                 <p>2. OODO</p>
                 <p>3. Android Studio</p>
                 <p>4. Navicat</p>
@@ -342,7 +342,7 @@ body{ padding: 20px; }
                 <p>3. Adlez Devha Bernandez Rakinaung</p>
                 <p>4. Aulia Prameswari Elyanto</p>
 
-              <td><p>1. Mapinfo</p>
+                <td style="white-space:nowrap;" ><p>1. Mapinfo</p>
                 <p>2. Navicat</p>
                   <p>3. Google Drive</p>
                   <p>4. Visual Studio Code</p>
@@ -473,7 +473,7 @@ body{ padding: 20px; }
             <td><p>1. Justin Tanner</p>
                 <p>2. Adlez Devha Bernandez Rakinaung</p>
        
-              <td><p>1. Google Drive</p>
+                <td style="white-space:nowrap;" ><p>1. Google Drive</p>
                 
               <td><p>hardware</p>
                 </td>
