@@ -84,7 +84,8 @@ body{ padding: 20px; }
                 <p>7. FileZilla</p>
                 <p>8. Hadoop Hortonworks</p>
                 <p>9. Google Drive</p></td>
-            <td><a href="/assets/Muhamad Fadel - cv.pdf">Resume</a></td>
+            <td><a href="/assets/Muhamad Fadel - cv.pdf">Resume</a>
+            <a href="/assets/CV Immobi Format Fadel.pdf"><p>Resume(Immobi Format)</p></a></td>
         </tr>
         
         
@@ -106,7 +107,8 @@ body{ padding: 20px; }
                 <p>5. Hadoop Hortonworks</p>
                 <p>6. Postman</p>
 
-            <td><a href="/assets/Maykel's Resume(1).pdf">Resume</a></td>
+            <td><a href="/assets/Maykel's Resume(1).pdf"><p>Resume</p></a>
+            <a href="/assets/CV Immobi Format Maykel.pdf"><p>Resume(Immobi Format)</p></a></td>
         </tr>
 
         <tr>
@@ -214,7 +216,8 @@ body{ padding: 20px; }
             <td><p>1. Xcode</p>
                 <p>2. Google Drive</p>
                 <p>3. Immobi Tracker</p>
-            <td><a href="/assets/Justin's Resume.pdf">Resume</a> </td>
+            <td><a href="/assets/Justin's Resume.pdf"><p>Resume</p></a>
+            <a href="/assets/CV Immobi Format Justin.pdf"><p>Resume(Immobi Format)</p></a></td>
         </tr>
 
         <tr>
@@ -226,7 +229,8 @@ body{ padding: 20px; }
             <td><p>1. Xcode</p>
                 <p>2. Google Drive</p>
                 <p>3. Immobi Tracker</p>
-            <td><a href="/assets/Martinus's Resume.pdf">Resume</a> </td>
+            <td><a href="/assets/Martinus's Resume.pdf">Resume</a>
+            <a href="/assets/CV Immobi Format Martinus.pdf"><p>Resume(Immobi Format)</p></a></td>
         </tr>
 
         <tr>
@@ -285,7 +289,8 @@ body{ padding: 20px; }
                 <p>3. Navicat</p>
                 <p>4. Terminal</p>
                 <p>5. GitLab / GitHub</p>
-            <td> <a href="/assets/CV BAGAS.pdf">Resume</a> </td>
+            <td> <a href="/assets/CV BAGAS.pdf">Resume</a>
+            <a href="/assets/CV Immobi Format Bagas.pdf"><p>Resume(Immobi Format)</p></a></td>
         </tr>
 
         <tr>
@@ -312,7 +317,8 @@ body{ padding: 20px; }
                 <p>4. Terminal</p>
                 <p>5. GitLab / GitHub</p>
                 <p>6. Xcode</p>
-            <td> <a href="/assets/Cv_Mohammad_Alhafidz_Permana_Baskoro.pdf">Resume</a> </td>
+            <td> <a href="/assets/Cv_Mohammad_Alhafidz_Permana_Baskoro.pdf"><p>Resume</p></a>
+            <a href="/assets/CV Immobi Format Afi.pdf"><p>Resume(Immobi Format)</p></a></td>
         </tr>
 
         <tr>
@@ -396,7 +402,8 @@ body{ padding: 20px; }
             <td><p>1. Trello Scrum</p>
                 <p>2. Immobi Tracker</p>
                 <p>3. Google Drive</p>
-            <td> <a href="/assets/Aprilia Dwi.L (3).pdf">Resume</a> </td>
+            <td> <a href="/assets/Aprilia Dwi.L (3).pdf">Resume</a>
+            <a href="/assets/CV Immobi Format April.pdf"><p>Resume(Immobi Format)</p></a></td>
         </tr>
 
         <tr>
@@ -426,7 +433,8 @@ body{ padding: 20px; }
             <td><p>1. Data Analytics (PT Pupuk Indonesia)</p>
             <td><p>1. Anaconda</p>
                 <p>2. Jupyter Notebook</p>
-            <td> <a href="/assets/Krisna Fernando.pdf">Resume</a> </td>
+            <td> <a href="/assets/Krisna Fernando.pdf"><p>Resume</p></a>
+            <a href="/assets/CV Immobi Format Krisna.pdf"><p>Resume(Immobi Format)</p></a></td>
         </tr>
                     
         </tbody>
