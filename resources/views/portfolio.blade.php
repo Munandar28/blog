@@ -406,10 +406,10 @@ body{ padding: 20px; }
                 </td>
 
         </tr> -->
-
+<!-- 
         <tr>
             <th scope="row">14</th>
-            <!-- <td>16</td> -->
+          
             <td><a href="">Panduan Haji & Umroh (Android)</a>
             <td><p>1. Stephanie Wilhelmina</p>
                 <p>2. Martinus G B L Parera</p>
@@ -427,10 +427,10 @@ body{ padding: 20px; }
 
                 </td>
                 <td><a href="">Flyer</a>
-        </tr>
+        </tr> -->
 
         <tr>
-            <th scope="row">15</th>
+            <th scope="row">14</th>
             <!-- <td>17</td> -->
             <td>Ayo Nyoblos
             <td><p>1. Muhammad Akbar</p>
@@ -454,7 +454,7 @@ body{ padding: 20px; }
 
         
         <tr>
-            <th scope="row">16</th>
+            <th scope="row">15</th>
             <!-- <td>18</td> -->
             <td>Cellcom Malaysia
             <td><p>1. Muhammad Fadel</p>
@@ -473,11 +473,11 @@ body{ padding: 20px; }
                 <td> <p>Mengumpulkan dan memproses data yang diambil dari Ookla dan OpenSignal di region Malaysia menggunakan data Cellcom.
 </p> 
                 </td>
-                <td><a href="">Flyer</a>
+                <td><a href="assets/Portfolio cellcom malaysia.pdf">Flyer</a>
         </tr>
 
         <tr>
-            <th scope="row">17</th>
+            <th scope="row">16</th>
             <!-- <td>19</td> -->
             <td>Incubator : Angel Investment
             <td><p>1. Justin Tanner</p>
@@ -494,7 +494,7 @@ body{ padding: 20px; }
 
         
         <tr>
-            <th scope="row">18</th>
+            <th scope="row">17</th>
             <!-- <td>13</td> -->
             <td>OSS Project
             <td><p>1. Kevin Munandar</p>
