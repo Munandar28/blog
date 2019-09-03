@@ -361,7 +361,7 @@ body{ padding: 20px; }
                 <td> <p>Redsite Project adalah proyek data validasi untuk optimisasi signal di site.
 </p> 
                 </td>
-                <td><a href="">Flyer</a>
+                <td><a href="assets/Redsite Flyer.pdf">Flyer</a>
         </tr>
 
         <tr>
