@@ -87,7 +87,7 @@ body{ padding: 20px; }
                 <p>7. FileZilla</p>
                 <p>8. Hadoop Hortonworks</p>
                 <p>9. Google Drive</p></td>
-            <td><a href="/assets/Kevin's Resume.pdf"><p>Resume</p> </a>
+            <td><a href="/assets/CV lama Kevin.pdf"><p>Resume</p> </a>
             <a href="/assets/CV Immobi Format Kevin Munandar.pdf"><p>Resume(Immobi Format)</p></a></td>
             
             </tr>
@@ -288,7 +288,7 @@ body{ padding: 20px; }
             <td><p>1. Trello Scrum</p>
                 <p>2. Immobi Tracker</p>
                 <p>3. Google Drive</p>
-            <td> <a href="/assets/CV-Aditya Pradipta.pdf"><p>Resume</p></a>
+            <td> <a href="/assets/CV lama Aditya.pdf"><p>Resume</p></a>
             <a href="/assets/CV Immobi Format Aditya.pdf"><p>Resume(Immobi Format)</p></a></td>
         </tr>
 
@@ -304,7 +304,7 @@ body{ padding: 20px; }
                 <p>3. Navicat</p>
                 <p>4. Terminal</p>
                 <p>5. GitLab / GitHub</p>
-            <td> <a href="/assets/Bob's Resume.pdf"><p>Resume</p></a>
+            <td> <a href="/assets/CV lama Bob.pdf"><p>Resume</p></a>
             <a href="/assets/CV Immobi Format Bob Harwin.pdf"><p>Resume(Immobi Format)</p> </a></td>
         </tr>
 
