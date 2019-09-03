@@ -175,7 +175,7 @@ body{ padding: 20px; }
                 <p>5. Navicat</p>   
                 <p>6. Immobi Tracker (QdPM)</p>
 
-            <td><a href="/assets/Stephanie_Wilhelmina_CV.pdf"><p>Resume</p></a>
+            <td><a href="assets/CV lama Tep.pdf"><p>Resume</p></a>
             <a href="/assets/CV Immobi Format Stephanie.pdf"><p>Resume(Immobi Format)</p></a></td>
         </tr>
 
@@ -257,7 +257,7 @@ body{ padding: 20px; }
             <td><p>1. Xcode</p>
                 <p>2. Google Drive</p>
                 <p>3. Immobi Tracker</p>
-            <td><a href="/assets/Martinus's Resume.pdf"><p>Resume</p> </a>
+            <td><a href="assets/CV lama Martinus.pdf"><p>Resume</p> </a>
             <a href="/assets/CV Immobi Format Martinus.pdf"><p>Resume(Immobi Format)</p></a></td>
         </tr>
 
@@ -331,7 +331,7 @@ body{ padding: 20px; }
             <td><p>1. Android Studio</p>
                 <p>2. Visual Studio Code</p>
                 <p>3. Navicat</p>
-            <td> <a href="/assets/hestiara-agatha-cv-resized.pdf"><p>Resume</p></a>
+            <td> <a href="assets/CV lama Hes.pdf"><p>Resume</p></a>
             <a href="/assets/CV Immobi Format Hestiara.pdf"><p>Resume(Immobi Format)</p></a></td>
         </tr>
 
@@ -359,7 +359,7 @@ body{ padding: 20px; }
                 <p>2. Rating Karyawan(Android)</p></p>
             <td><p>1. Android Studio</p>
                 <p>2. Visual Studio Code</p>
-            <td> <a href="/assets/Andri's Resume (1).pdf"><p>Resume</p></a>
+            <td> <a href="assets/CV lama Andri.pdf"><p>Resume</p></a>
             <a href="/assets/CV Immobi Format Andri Yanto.pdf"><p>Resume(Immobi Format)</p></a></td>
         </tr>
 
@@ -374,8 +374,8 @@ body{ padding: 20px; }
                 <p>3. Navicat</p>
                 <p>4. Terminal</p>
                 <p>5. GitLab / GitHub</p>
-            <td> <a href="/assets/CV Adrian Hartanto.pdf"><p>Resume</p></a>
-            <a href="/assets/CV Immobi Format Adrian.pdf"><p>Resume(Immobi Format)</p></a></td>
+            <td> <a href="assets/CV lama Adrian.pdf"><p>Resume</p></a>
+            <a href="assets/CV baru Adrian.pdf"><p>Resume(Immobi Format)</p></a></td>
         </tr>
 
         <tr>
@@ -389,7 +389,7 @@ body{ padding: 20px; }
                 <p>3. Navicat</p>
                 <p>4. Terminal</p>
                 <p>5. GitLab / GitHub</p>
-            <td> <a href="/assets/Ivander's Resume.pdf"><p>Resume</p></a>
+            <td> <a href="assets/CV lama Reyner.pdf"><p>Resume</p></a>
             <a href="/assets/CV Immobi Format Ivander Reyner.pdf"><p>Resume(Immobi Format)</p></a></td>
         </tr>
 
