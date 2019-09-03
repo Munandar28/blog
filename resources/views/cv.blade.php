@@ -216,7 +216,7 @@ body{ padding: 20px; }
                 <p>7. Google Drive</p>
 
             <td><a href="/assets/MuhammadFardiansyahCV.pdf"><p>Resume</p></a>
-            <a href="/assets/CV Immobi Format Fardiansyah.pdf"><p>Resume(Immobi Format)</p></a></td>
+            <a href="/assets/CV baru Fardi.pdf"><p>Resume(Immobi Format)</p></a></td>
         </tr>
 
         <tr>
@@ -244,7 +244,7 @@ body{ padding: 20px; }
             <td><p>1. Xcode</p>
                 <p>2. Google Drive</p>
                 <p>3. Immobi Tracker</p>
-            <td><a href="/assets/Justin's Resume.pdf"><p>Resume</p></a>
+            <td><a href="/assets/CV lama Justin.pdf"><p>Resume</p></a>
             <a href="/assets/CV Immobi Format Justin.pdf"><p>Resume(Immobi Format)</p></a></td>
         </tr>
 
@@ -403,7 +403,7 @@ body{ padding: 20px; }
             <td><p>1. Trello Scrum</p>
                 <p>2. Immobi Tracker</p>
                 <p>3. Google Drive</p>
-            <td> <a href="/assets/Aulia's Resume.pdf"><p>Resume</p></a>
+            <td> <a href="/assets/CV lama Aulia.pdf"><p>Resume</p></a>
             <a href="/assets/CV Immobi Format Aulia.pdf"><p>Resume(Immobi Format)</p></a></td>
         </tr>
 
@@ -419,7 +419,7 @@ body{ padding: 20px; }
                 <p>2. Visual Studio Code</p>
                 <p>3. Immobi Tracker (QdPM)</p>
                 <p>4. Trello Scrum</p>
-            <td> <a href="/assets/Samuel Sanjaya CV.pdf"><p>Resume</p></a>
+            <td> <a href="/assets/CV lama Sam.pdf"><p>Resume</p></a>
             <a href="/assets/CV Immobi Format Samuel Sanjaya.pdf"><p>Resume(Immobi Format)</p></a></td>
         </tr>
 
