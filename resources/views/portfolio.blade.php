@@ -253,7 +253,7 @@ body{ padding: 20px; }
                 <td> <p>Aplikasi Rating Karyawan adalah sebuah aplikasi internal yang bertujuan untuk memberikan penilaian terhadap seluruh karyawan lewat mobile phone.
 </p> 
                 </td>
-                <td><a href="assets/brosur rating karyawan 2.jpg">Rating Karyawan (Android)</a>
+                <td><a href="assets/brosur rating karyawan 2.jpg">Flyer</a>
         </tr>
 
         <tr>
