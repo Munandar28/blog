@@ -110,7 +110,7 @@ body{ padding: 20px; }
                 <p>7. FileZilla</p>
                 <p>8. Hadoop Hortonworks</p>
                 <p>9. Google Drive</p></td>
-            <td><a href="/assets/Muhamad Fadel - cv.pdf"><p>Resume</p> </a>
+            <td><a href="assets/CV Lama Muhamad Fadel.pdf"><p>Resume</p> </a>
             <a href="/assets/CV Immobi Format Fadel.pdf"><p>Resume(Immobi Format)</p></a></td>
         </tr>
         
