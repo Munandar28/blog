@@ -25,3 +25,7 @@ Route::post('/auth', 'SignInController@auth')->name('auth');
 Route::get('/cv', 'PageController@cv')->name('cv');
 Route::get('/portfolio', 'PageController@portfolio')->name('portfolio');
 Route::get('/test123','PageController@test123')->name('test123');
+Route::get('/cv/tambah','PageController@tambah');
+
+// route store data ke db
+Route::post('/test123/store','PageController@store');
