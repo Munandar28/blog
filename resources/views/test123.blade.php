@@ -45,7 +45,7 @@
       <td><a href="/assets/{{$data->Link_CV}}">Resume</a></td>      
       
       <td>
-      <a href="cv/edit/"><button type="button" class="btn btn-primary">Edit</button></a>
+      <a href="cv/edit/{{$data->no}}"><button type="button" class="btn btn-primary">Edit</button></a>
       <p> </p>
      
        <a href="cv/hapus/"><button type="button" class="btn btn-danger">Hapus</button></a> 

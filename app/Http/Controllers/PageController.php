@@ -47,6 +47,29 @@ class PageController extends Controller
     
         }
 
+     public function edit($id)
+        {
+            // mengambil data pegawai berdasarkan id yang dipilih
+            $karyawan = DB::table('datakaryawan')->where('No',$id)->get();
+            // passing data pegawai yang didapat ke view edit.blade.php
+            return view('edit',['karyawan' => $karyawan]);
+        
+        }
+
+        public function update(Request $request)
+        {
+            // insert data ke table datakaryawan
+            DB::table('datakaryawan')->where('No',$request->id)->update([
+            
+                'Nama' => $request->Nama,
+                'Projek' => $request->Projek,
+                'Software' => $request->Software
+            ]);
+            // alihkan halaman ke halaman pegawai
+            return redirect('/test123');
+    
+        }
+
 
     // Return view portfolio.blade.php kalau sedang login
     // kalau tidak login dilempar kembali ke homepage
