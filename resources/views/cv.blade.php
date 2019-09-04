@@ -28,6 +28,7 @@ body{ padding: 20px; }
             <tr>
                 <th>No</th>
                 <th>Nama</th>
+                <th>Tahun Angkatan</th>
                 <th>Projek</th>
                 <th>Software</th>
                 <th>Link Resume(PDF)</th>
@@ -73,6 +74,7 @@ body{ padding: 20px; }
             <!-- <td>1</td> -->
             <th scope="row">1</th>
             <td style="white-space:nowrap;" >Kevin Munandar</td>
+            <td>2019</td>
             <td><p>1. Big Data Exploration</p>
                 <p>2. CellCom Malaysia</p>
                 <p>3. OSS Project</p>
@@ -87,7 +89,7 @@ body{ padding: 20px; }
                 <p>7. FileZilla</p>
                 <p>8. Hadoop Hortonworks</p>
                 <p>9. Google Drive</p></td>
-            <td><a href="/assets/Kevin's Resume.pdf"><p>Resume</p> </a>
+            <td><a href="/assets/CV lama Kevin.pdf"><p>Resume</p> </a>
             <a href="/assets/CV Immobi Format Kevin Munandar.pdf"><p>Resume(Immobi Format)</p></a></td>
             
             </tr>
@@ -96,6 +98,7 @@ body{ padding: 20px; }
             <!-- <td>2</td> -->
             <th scope="row">2</th>
             <td>Muhamad Fadel</td>
+            <td>2019</td>
             <td><p>1. Big Data Exploration</p>
                 <p>2. CellCom Malaysia</p>
                 <p>3. OSS Project</p>
@@ -119,6 +122,7 @@ body{ padding: 20px; }
             <!-- <td>3</td> -->
             <th scope="row">3</th>
             <td>Maykel Wongkar <p class="text-success">[HIRED]</p></td>
+            <td>2019</td>
             <td><p>1. Big Data Exploration</p>
                 <p>2. Rekonsiliasi Payment Muslim Pocket</p>
                 <p>3. OSS Project</p>
@@ -133,7 +137,7 @@ body{ padding: 20px; }
                 <p>5. Hadoop Hortonworks</p>
                 <p>6. Postman</p>
 
-            <td><a href="/assets/Maykel's Resume(1).pdf"><p>Resume</p></a>
+            <td><a href="/assets/CV lama Maykel.pdf"><p>Resume</p></a>
             <a href="/assets/CV Immobi Format Maykel.pdf"><p>Resume(Immobi Format)</p></a></td>
         </tr>
 
@@ -142,6 +146,7 @@ body{ padding: 20px; }
             <th scope="row">4</th>
             <!-- <td>4</td> -->
             <td>Chalvin Dinata</td>
+            <td>2019</td>
             <td><p>1. Big Data Exploration</p>
                 <p>2. Rekonsiliasi Payment Muslim Pocket</p>
                 <p>3. OSS Project</p>
@@ -155,7 +160,7 @@ body{ padding: 20px; }
                 <p>5. Hadoop Hortonworks</p>
                 <p>6. Postman</p>
 
-            <td><a href="/assets/Chalvin's Resume.pdf"><p>Resume</p></a>
+            <td><a href="/assets/CV lama Chalvin.pdf"><p>Resume</p></a>
             <a href="/assets/CV Immobi Format Chalvin.pdf"><p>Resume(Immobi Format)</p></a></td>
         </tr>
 
@@ -163,6 +168,7 @@ body{ padding: 20px; }
             <th scope="row">5</th>
             <!-- <td>5</td> -->
             <td>Stephanie Wilhelmina</td>
+            <td>2019</td>
             <td><p>1. Muslim Pocket (Android)</p>
                 <p>2. Panduan Haji & Umroh (Android)</p>
                 <p>3. Immobi Tracker (Web)</p>
@@ -185,6 +191,7 @@ body{ padding: 20px; }
             <th scope="row">6</th>
             <!-- <td>6</td> -->
             <td>Inez Christiani <p class="text-success">[HIRED]</p></td>
+            <td>2019</td>
             <td><p>1. MuslimPocket(iOS)</p>
                 <p>2. Jaring Laut Application</p>
                 <p>2. Incubator : Muslim Pocket</p>
@@ -192,7 +199,7 @@ body{ padding: 20px; }
                 <p>2. Immobi Tracker</p>
                 <p>3. Google Drive</p>
 
-            <td><a href="/assets/CV - Inez Christiani.pdf"><p>Resume</p></a>
+            <td><a href="/assets/CV lama Inez.pdf"><p>Resume</p></a>
             <a href="/assets/CV Immobi Format Inez.pdf"><p>Resume(Immobi Format)</p></a></td>
         </tr>
 
@@ -200,6 +207,7 @@ body{ padding: 20px; }
             <th scope="row">7</th>
             <!-- <td>7</td> -->
             <td>Muhammad Fardiansyah</td>
+            <td>2019</td>
             <td><p>1. Incubator : Muslim Pocket</p>
                 <p>2. Muslim Pocket (Android)</p>
                 <p>3. Ookla Malaysia</p>
@@ -216,13 +224,14 @@ body{ padding: 20px; }
                 <p>7. Google Drive</p>
 
             <td><a href="/assets/MuhammadFardiansyahCV.pdf"><p>Resume</p></a>
-            <a href="/assets/CV Immobi Format Fardiansyah.pdf"><p>Resume(Immobi Format)</p></a></td>
+            <a href="/assets/CV baru Fardi.pdf"><p>Resume(Immobi Format)</p></a></td>
         </tr>
 
         <tr>
             <th scope="row">8</th>
             <!-- <td>8</td> -->
             <td>Adlez Devha Bernandez Rakinaung</td>
+            <td>2019</td>
             <td><p>1. Redsite Project</p>
                 <p>2. CRM App (Sales and Marketing App)</p>
                 <p>3. Incubator : Angel Investment</p>
@@ -230,7 +239,7 @@ body{ padding: 20px; }
             <td><p>1. Trello Scrum</p>
                 <p>2. Google Drive</p>
                 <p>3. Immobi Tracker</p>
-            <td><a href="/assets/CV (Adlez D.B Rakinaung) (3).pdf"><p>Resume</p> </a>
+            <td><a href="/assets/CV lama Adlez.pdf"><p>Resume</p> </a>
             <a href="/assets/CV Immobi Format Adlez.pdf"><p>Resume(Immobi Format)</p></a></td>
         </tr>
 
@@ -238,13 +247,14 @@ body{ padding: 20px; }
             <th scope="row">9</th>
             <!-- <td>9</td> -->
             <td>Justin Tanner</td>
+            <td>2019</td>
             <td><p>1. Rating Karyawan(iOS)</p>
                 <p>2. CRM App (Sales and Marketing App)</p>
                 <p>3. Incubator : Angel Investment</p>
             <td><p>1. Xcode</p>
                 <p>2. Google Drive</p>
                 <p>3. Immobi Tracker</p>
-            <td><a href="/assets/Justin's Resume.pdf"><p>Resume</p></a>
+            <td><a href="/assets/CV lama Justin.pdf"><p>Resume</p></a>
             <a href="/assets/CV Immobi Format Justin.pdf"><p>Resume(Immobi Format)</p></a></td>
         </tr>
 
@@ -252,6 +262,7 @@ body{ padding: 20px; }
             <th scope="row">10</th>
             <!-- <td>10</td> -->
             <td>Martinus G B L Parera <p class="text-success">[HIRED]</p></td>
+            <td>2019</td>
             <td><p>1. Muslim Pocket(Android)</p>
                 <p>2. Jaring Laut Application</p>
             <td><p>1. Xcode</p>
@@ -265,6 +276,7 @@ body{ padding: 20px; }
             <th scope="row">11</th>
             <!-- <td>11</td> -->
             <td>Mohammad Akbar</td>
+            <td>2019</td>
             <td><p>1. Immobi Tracker (Web)</p>
                 <p>2. Nominatif Entertaint</p>
                 <p>3. Rekonsiliasi Payment Muslim Pocket</p>
@@ -282,13 +294,14 @@ body{ padding: 20px; }
             <th scope="row">12</th>
             <!-- <td>12</td> -->
             <td>Aditya Pradipta</td>
+            <td>2019</td>
             <td><p>1. Immobi Tracker (Web)</p>
                 <p>2. Nominatif Entertaint</p>
                 <p>3. Rekonsiliasi Payment Muslim Pocket</p>
             <td><p>1. Trello Scrum</p>
                 <p>2. Immobi Tracker</p>
                 <p>3. Google Drive</p>
-            <td> <a href="/assets/CV-Aditya Pradipta.pdf"><p>Resume</p></a>
+            <td> <a href="/assets/CV lama Aditya.pdf"><p>Resume</p></a>
             <a href="/assets/CV Immobi Format Aditya.pdf"><p>Resume(Immobi Format)</p></a></td>
         </tr>
 
@@ -296,6 +309,7 @@ body{ padding: 20px; }
             <th scope="row">13</th>
             <!-- <td>13</td> -->
             <td>Bob Harwin</td>
+            <td>2019</td>
             <td><p>1. Immobi Tracker (Web)</p>
                 <p>2. Nominatif Entertaint</p>
                 <p>3. Rekonsiliasi Payment Muslim Pocket</p>
@@ -304,7 +318,7 @@ body{ padding: 20px; }
                 <p>3. Navicat</p>
                 <p>4. Terminal</p>
                 <p>5. GitLab / GitHub</p>
-            <td> <a href="/assets/Bob's Resume.pdf"><p>Resume</p></a>
+            <td> <a href="/assets/CV lama Bob.pdf"><p>Resume</p></a>
             <a href="/assets/CV Immobi Format Bob Harwin.pdf"><p>Resume(Immobi Format)</p> </a></td>
         </tr>
 
@@ -312,20 +326,22 @@ body{ padding: 20px; }
             <th scope="row">14</th>
             <!-- <td>14</td> -->
             <td>Bagas Kuncoro</td>
+            <td>2019</td>
             <td><p>1. Rekonsiliasi Payment Muslim Pocket</p>
             <td><p>1. Postman</p>
                 <p>2. Visual Studio Code</p>
                 <p>3. Navicat</p>
                 <p>4. Terminal</p>
                 <p>5. GitLab / GitHub</p>
-            <td> <a href="/assets/CV BAGAS.pdf"><p>Resume</p> </a>
-            <a href="/assets/CV Immobi Format Bagas.pdf"><p>Resume(Immobi Format)</p></a></td>
+            <td> <a href="/assets/CV lama Bagas.pdf"><p>Resume</p> </a>
+            <a href="/assets/CV baru Bagas.pdf"><p>Resume(Immobi Format)</p></a></td>
         </tr>
 
         <tr>
             <th scope="row">15</th>
             <!-- <td>15</td> -->
             <td>Hestiara Agatha </td>
+            <td>2019</td>
             <td><p>1. CRM App(Sales and Marketing App)</p>
                 <p>2. Immobi Tracker(Web)</p>
             <td><p>1. Android Studio</p>
@@ -339,6 +355,7 @@ body{ padding: 20px; }
             <th scope="row">16</th>
             <!-- <td>16</td> -->
             <td>Mohammad Alhafidz Permana Baskoro</td>
+            <td>2019</td>
             <td><p>1. Immobi Tracker (iOS)</p>
                 <p>4. Muslim Pocket(iOS)</p>
             <td><p>1. Postman</p>
@@ -347,7 +364,7 @@ body{ padding: 20px; }
                 <p>4. Terminal</p>
                 <p>5. GitLab / GitHub</p>
                 <p>6. Xcode</p>
-            <td> <a href="/assets/Cv_Mohammad_Alhafidz_Permana_Baskoro.pdf"><p>Resume</p></a>
+            <td> <a href="/assets/CV lama Afi.pdf"><p>Resume</p></a>
             <a href="/assets/CV Immobi Format Afi.pdf"><p>Resume(Immobi Format)</p></a></td>
         </tr>
 
@@ -355,6 +372,7 @@ body{ padding: 20px; }
             <th scope="row">17</th>
             <!-- <td>17</td> -->
             <td>Andri Yanto</td>
+            <td>2019</td>
             <td><p>1. CRM App(Sales and Marketing App)</p>
                 <p>2. Rating Karyawan(Android)</p></p>
             <td><p>1. Android Studio</p>
@@ -367,6 +385,7 @@ body{ padding: 20px; }
             <th scope="row">18</th>
             <!-- <td>18</td> -->
             <td>Adrian Hartanto</td>
+            <td>2019</td>
             <td><p>1. Immobi Tracker(Web)</p>
                 <p>2. Rating Karyawan(Web)</p>
             <td><p>1. Postman</p>
@@ -382,6 +401,7 @@ body{ padding: 20px; }
             <th scope="row">19</th>
             <!-- <td>19</td> -->
             <td>Ivander Reyner</td>
+            <td>2019</td>
             <td><p>1. Immobi Tracker(Web)</p>
                 <p>2. Rating Karyawan(Web)</p>
             <td><p>1. Postman</p>
@@ -397,13 +417,14 @@ body{ padding: 20px; }
             <th scope="row">20</th>
             <!-- <td>20</td> -->
             <td>Aulia Prameswari</td>
+            <td>2019</td>
             <td><p>1. Muslim Pocket</p>
                 <p>2. Rating Karyawan(Web)</p>
                 <p>3. Redsite Project</p>
             <td><p>1. Trello Scrum</p>
                 <p>2. Immobi Tracker</p>
                 <p>3. Google Drive</p>
-            <td> <a href="/assets/Aulia's Resume.pdf"><p>Resume</p></a>
+            <td> <a href="/assets/CV lama Aulia.pdf"><p>Resume</p></a>
             <a href="/assets/CV Immobi Format Aulia.pdf"><p>Resume(Immobi Format)</p></a></td>
         </tr>
 
@@ -411,6 +432,7 @@ body{ padding: 20px; }
             <th scope="row">21</th>
             <!-- <td>21</td> -->
             <td>Samuel Sanjaya <p class="text-success">[HIRED]</p></td>
+            <td>2019</td>
             <td><p>1. Rating Karyawan</p>
                 <p>2. CRM App(Sales and Marketing App)</p>
                 <p>3. Connecta Phase 2</p>
@@ -419,7 +441,7 @@ body{ padding: 20px; }
                 <p>2. Visual Studio Code</p>
                 <p>3. Immobi Tracker (QdPM)</p>
                 <p>4. Trello Scrum</p>
-            <td> <a href="/assets/Samuel Sanjaya CV.pdf"><p>Resume</p></a>
+            <td> <a href="/assets/CV lama Sam.pdf"><p>Resume</p></a>
             <a href="/assets/CV Immobi Format Samuel Sanjaya.pdf"><p>Resume(Immobi Format)</p></a></td>
         </tr>
 
@@ -427,6 +449,7 @@ body{ padding: 20px; }
             <th scope="row">22</th>
             <!-- <td>22</td> -->
             <td>Aprilia Dwi Lestari</td>
+            <td>2019</td>
             <td><p>1. Muslim Pocket</p>
                 <p>2. Data Analysis</p>
             <td><p>1. Trello Scrum</p>
@@ -440,31 +463,36 @@ body{ padding: 20px; }
             <th scope="row">23</th>
             <!-- <td>23</td> -->
             <td>Imanuel Ruben</td>
+            <td>2019</td>
             <td><p>1. Data Analytics (PT Pupuk Indonesia)</p>
             <td><p>1. Anaconda</p>
                 <p>2. Jupyter Notebook</p>
-            <td> <a href="/assets/Imanuel Ruben.pdf"><p>Resume</p> </a> </td>
+            <td> <a href="/assets/Imanuel Ruben.pdf"><p>Resume</p> </a>
+            <a href="/assets/CV baru Ruben.pdf"><p>Resume(Immobi Format)</p></a></td>
         </tr>
 
         <tr>
             <th scope="row">24</th>
             <!-- <td>24</td> -->
             <td>Hengky</td>
+            <td>2019</td>
             <td><p>1. Data Analytics (PT Pupuk Indonesia)</p>
             <td><p>1. Anaconda</p>
                 <p>2. Jupyter Notebook</p>
-            <td> <a href="/assets/Hengky.pdf"><p>Resume</p></a> </td>
+            <td> <a href="/assets/CV lama Hengky.pdf"><p>Resume</p></a>
+            <a href="/assets/CV baru Hengky.pdf"><p>Resume(Immobi Format)</p></a></td>
         </tr>
 
         <tr>
             <th scope="row">25</th>
             <!-- <td>25</td> -->
             <td>Krisna Fernando</td>
+            <td>2019</td>
             <td><p>1. Data Analytics (PT Pupuk Indonesia)</p>
             <td><p>1. Anaconda</p>
                 <p>2. Jupyter Notebook</p>
-            <td> <a href="/assets/Krisna Fernando.pdf"><p>Resume</p></a>
-            <a href="/assets/CV Immobi Format Krisna.pdf"><p>Resume(Immobi Format)</p></a></td>
+            <td> <a href="/assets/CV lama Krisna.pdf"><p>Resume</p></a>
+            <a href="/assets/CV baru Krisna.pdf"><p>Resume(Immobi Format)</p></a></td>
         </tr>
                     
         </tbody>
@@ -472,6 +500,7 @@ body{ padding: 20px; }
             <tr>
                 <th>No</th>
                 <th>Nama</th>
+                <th>Tahun Angkatan</th>
                 <th>Projek</th>
                 <th>Tools</th>
                 <th>Link CV(PDF)</th>
