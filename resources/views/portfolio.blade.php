@@ -108,7 +108,8 @@ body{ padding: 20px; }
                 <td> <p>Melakukan eksplorasi tentang big data menggunakan HortonWorks SandBox.
 </p> 
                 </td>
-                <td><a href="assets/Portfolio BigData.pdf">Flyer</a></td>
+                <td> <p><a href="assets/Portfolio BigData.pdf">Flyer</a></p>
+                </td>
         </tr>
 
         <tr>
@@ -134,7 +135,7 @@ body{ padding: 20px; }
                 </td>
                 <td> <p>Muslimpocket adalah sebuah aplikasi mobile yang akan mendampingi ibadah Umat Muslim di Indonesia. Hanya dengan menginstall aplikasi ini, kamu bisa menemukan masjid di sekitar mu, berbincang dengan ustadz , mengingatkan waktu shalat , dsb</p>
                 </td>
-                <td><a href="/assets/muslimpocket_compressed.pdf">Flyer</a>
+                <td> <p><a href="/assets/muslimpocket_compressed.pdf">Flyer</a></p>
         </tr>
 
         <tr>
@@ -153,7 +154,7 @@ body{ padding: 20px; }
                 </td>
                 <td> <p>Muslimpocket adalah sebuah aplikasi mobile yang akan mendampingi ibadah Umat Muslim di Indonesia. Hanya dengan menginstall aplikasi ini, kamu bisa menemukan masjid di sekitar mu, berbincang dengan ustadz , mengingatkan waktu shalat , dsb</p>
                 </td>
-                <td><a href="/assets/muslimpocket_compressed.pdf">Flyer</a>
+                <td> <p><a href="/assets/muslimpocket_compressed.pdf">Flyer</a></p>
         </tr>
 
         <!-- <tr>
@@ -194,7 +195,7 @@ body{ padding: 20px; }
                 <td> <p>Aplikasi keluaran PT Immobi Solusi Prima yang berfungsi untuk melakukan monitoring project-project yang sedang berjalan ataupun project yang sudah closed.
 </p> 
                 </td>
-                <td><a href="/assets/photo6260539743527872770.jpg">Flyer</a>
+                <td> <p><a href="/assets/photo6260539743527872770.jpg">Flyer</a></p>
         </tr>
 
 
@@ -215,7 +216,7 @@ body{ padding: 20px; }
                 <td> <p>Aplikasi keluaran PT Immobi Solusi Prima yang berfungsi untuk melakukan monitoring project-project yang sedang berjalan ataupun project yang sudah closed.
 </p> 
                 </td>
-                <td><a href="/assets/photo6260496566221646079.jpg">Flyer</a>
+                <td> <p><a href="/assets/photo6260496566221646079.jpg">Flyer</a></p>
 
         <tr>
             <th scope="row">6</th>
@@ -235,7 +236,7 @@ body{ padding: 20px; }
                 <td> <p>Aplikasi Rating Karyawan adalah sebuah aplikasi internal yang bertujuan untuk memberikan penilaian terhadap seluruh karyawan lewat mobile phone.
 </p> 
                 </td>
-                <td><a href="assets/brosur rating karyawan 2.jpg">Flyer</a>
+                <td> <p><a href="assets/brosur rating karyawan 2.jpg">Flyer</a></p>
         </tr>
 
         <tr>
@@ -253,7 +254,7 @@ body{ padding: 20px; }
                 <td> <p>Aplikasi Rating Karyawan adalah sebuah aplikasi internal yang bertujuan untuk memberikan penilaian terhadap seluruh karyawan lewat mobile phone.
 </p> 
                 </td>
-                <td><a href="assets/brosur rating karyawan 2.jpg">Flyer</a>
+                <td> <p><a href="assets/brosur rating karyawan 2.jpg">Flyer</a></p>
         </tr>
 
         <tr>
@@ -275,7 +276,7 @@ body{ padding: 20px; }
                 <td> <p>Aplikasi seperti CRM yang ada di Odoo Web, dengan tambahan fitur Digital Marketing. Dibangun dengan Android Studio (Javascript, Node.JS, React.JS)
 </p> 
                 </td>
-                <td><a href="assets/Brosur CRM (5).pdf">Flyer</a>
+                <td> <p><a href="assets/Brosur CRM (5).pdf">Flyer</a></p>
         </tr>
 
         <tr>
@@ -296,7 +297,7 @@ body{ padding: 20px; }
                 <td> <p>Aplikasi berbasis web yang bertujuan untuk memudahkan dalam menentukan target prioritas distribusi pupuk dan meningkatkan kualitas proses pengambilan keputusan 
 </p> 
                 </td>
-                <td><a href="assets/Portfolio Data Analyst.pdf">Flyer</a>
+                <td> <p><a href="assets/Portfolio Data Analyst.pdf">Flyer</a></p>
         </tr>
 
         <tr>
@@ -316,7 +317,7 @@ body{ padding: 20px; }
                 </td>
                 <td> <p>Nominatif Entertaint adalah sebuah aplikasi yang bertujuan sebagai sarana untuk klaim entertaint secara online melalui aplikasi berbasis website yang diperuntukan untuk karyawankaryawan Immobi.Apps Nominatif Entertaint terdapat fitur Rekam dan Rekap Nominatif Entertaint. Masing-masing dari fitur diharapkan mampu menunjang kegiatan klaim entertaint pada karyawan Immobi.</p>
                 </td>
-                <td><a href="assets/Nominatif Entertaint.pdf">Flyer</a>
+                <td> <p><a href="assets/Nominatif Entertaint.pdf">Flyer</a></p>
         </tr>
 
         <tr>
@@ -339,7 +340,7 @@ body{ padding: 20px; }
                 <td> <p>Aplikasi untuk memonitor progres dan perkembangan status payment dan data rekap bank pada aplikasi Muslim Pocket.
 </p> 
                 </td>
-                <td><a href="assets/Rekonsiliasi.pdf">Flyer</a>
+                <td> <p><a href="assets/Rekonsiliasi.pdf">Flyer</a></p>
         </tr>
 
 
@@ -361,7 +362,7 @@ body{ padding: 20px; }
                 <td> <p>Redsite Project adalah proyek data validasi untuk optimisasi signal di site.
 </p> 
                 </td>
-                <td><a href="assets/Redsite Flyer.pdf">Flyer</a>
+                <td> <p><a href="assets/Redsite Flyer.pdf">Flyer</a></p>
         </tr>
 
         <tr>
@@ -383,7 +384,7 @@ body{ padding: 20px; }
                 <td> <p>Sebuah web untuk memantau dan melakukan optimalisasi pada jaringan berdasarkan indikator yang terdapat dalam modul - modul connecta.
                     </p>
                 </td>
-                <td><a href="assets/Portofolio Connecta phase II.pdf">Flyer</a>
+                <td> <p><a href="assets/Portofolio Connecta phase II.pdf">Flyer</a></p>
         </tr>
 
         <!-- <tr>
@@ -449,7 +450,7 @@ body{ padding: 20px; }
                 <td> <p>Aplikasi ini berbasis web yang bertujuan sebagai wujud kepedulian untuk membantu Indonesia melaksanakan Pilpres dan Pileg yang lancar
                    dan minim golput. </p>
                 </td>
-                <td><a href="assets/Portofolio Yoaynyoblos .pdf">Flyer</a>
+                <td> <p><a href="assets/Portofolio Yoaynyoblos .pdf">Flyer</a></p>
         </tr>
 
         
@@ -473,7 +474,7 @@ body{ padding: 20px; }
                 <td> <p>Mengumpulkan dan memproses data yang diambil dari Ookla dan OpenSignal di region Malaysia menggunakan data Cellcom.
 </p> 
                 </td>
-                <td><a href="assets/Portfolio cellcom malaysia.pdf">Flyer</a>
+                <td> <p><a href="assets/Portfolio cellcom malaysia.pdf">Flyer</a></p>
         </tr>
 
         <tr>
@@ -489,7 +490,7 @@ body{ padding: 20px; }
                 </td>
                 <td> <p>Melakukan inkubasi perusahaan yang berfokus pada produk atau perusahaan digital startup. Yang dimana, explorasi dan analisis dilakukan terhadap perusahaan atau produk yang memiliki potensi untuk dilakukannya investasi oleh P.T Immobi.</p>
                 </td>
-                <td><a href="assets/Portfolio Inkubasi perusahaan.pdf">Flyer</a>
+                <td> <p><a href="assets/Portfolio Inkubasi perusahaan.pdf">Flyer</a></p>
         </tr> 
 
         
@@ -513,7 +514,7 @@ body{ padding: 20px; }
                 </td>
                 <td> <p>OSS adalah projek integrasi data dimana data-data yang dibutuhkan diambil secara otomatis</p> 
                 </td>
-                <td><a href="assets/Porfolio OSS.PDF">Flyer</a>
+                <td> <p><a href="assets/Porfolio OSS.PDF">Flyer</a></p>
 
         </tr>
 

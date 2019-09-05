@@ -50,7 +50,7 @@ class PageController extends Controller
      public function edit($id)
         {
             // mengambil data pegawai berdasarkan id yang dipilih
-            $karyawan = DB::table('datakaryawan')->where('No',$id)->get();
+            $karyawan = DB::table('datakaryawan')->where('no',$id)->get();
             // passing data pegawai yang didapat ke view edit.blade.php
             return view('edit',['karyawan' => $karyawan]);
         
