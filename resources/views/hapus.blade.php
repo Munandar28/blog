@@ -18,9 +18,9 @@
 		{{ csrf_field() }}  
 		<!-- Umur <input type="number" name="umur" required="required"> <br/> -->
 		<input type="hidden" name="no" value="{{$data->no}}"> <br/>
-		Nama <input type="text" name="Nama" required="required" value="{{$data->Nama}}"> <br/>
-		Projek <textarea name="Projek" required="required" value="{{$data->Projek}}"></textarea> <br/>
-		Software <textarea name="Software" required="required" value="{{$data->Software}}"></textarea> <br/>
+		Nama <input type="text" name="Nama" required="required"> <br/>
+		Projek <textarea name="Projek" required="required"></textarea> <br/>
+		Software <textarea name="Software" required="required"></textarea> <br/>
   
         
 

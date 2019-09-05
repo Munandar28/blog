@@ -23,7 +23,7 @@ class PageController extends Controller
     {
         if (Session::get('isLoggedIn') == true) {
             $karyawan = DB:: table('datakaryawan')->get();
-
+            
 
             return view('test123',['karyawan' => $karyawan]);
             
@@ -58,8 +58,9 @@ class PageController extends Controller
 
         public function update(Request $request)
         {
+            // $request->
             // insert data ke table datakaryawan
-            DB::table('datakaryawan')->where('No',$request->id)->update([
+            DB::table('datakaryawan')->where('no',$request->id)->update([
             
                 'Nama' => $request->Nama,
                 'Projek' => $request->Projek,
@@ -68,6 +69,16 @@ class PageController extends Controller
             // alihkan halaman ke halaman pegawai
             return redirect('/test123');
     
+        }
+
+        // method untuk hapus data pegawai
+        public function hapus($id)
+        {
+            // menghapus data pegawai berdasarkan id yang dipilih
+            DB::table('datakaryawan')->where('no',$id)->delete();
+                
+            // alihkan halaman ke halaman pegawai
+            return redirect('/test123');
         }
 
 

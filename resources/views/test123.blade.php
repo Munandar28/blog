@@ -25,7 +25,7 @@
                 <br/>
 
             <tr>
-                <th>No</th>
+                <!-- <th>No</th> -->
                 <th>Nama</th>
                 <th>Projek</th>
                 <th>Software</th>
@@ -38,17 +38,17 @@
              
     @foreach($karyawan as $key => $data)
     <tr>    
-      <td>{{$data->no}}</td>
+      <!-- <td>{{$data->no}}</td> -->
       <td>{{$data->Nama}}</td>
       <td>{{$data->Projek}}</td>
       <td>{{$data->Software}}</td>
       <td><a href="/assets/{{$data->Link_CV}}">Resume</a></td>      
       
       <td>
-      <a href="cv/edit/{{$data->no}}"><button type="button" class="btn btn-primary">Edit</button></a>
+      <a href="/test123/edit/{{$data->no}}"><button type="button" class="btn btn-primary">Edit</button></a>
       <p> </p>
      
-       <a href="cv/hapus/"><button type="button" class="btn btn-danger">Hapus</button></a> 
+       <a href="/test123/hapus/{{$data->no}}"><button type="button" class="btn btn-danger">Hapus</button></a> 
       </td>           
     </tr>
     @endforeach

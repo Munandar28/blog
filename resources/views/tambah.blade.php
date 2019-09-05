@@ -22,8 +22,8 @@
         
      
         
-
-     <!-- <form action="upload.php" method="post" enctype="multipart/form-data">
+<!-- 
+     <form action="upload.php" method="post" enctype="multipart/form-data">
         Select File to upload:
         <br>
         <input type="file" name="fileToUpload" id="fileToUpload">
