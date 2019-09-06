@@ -56,11 +56,18 @@ class PageController extends Controller
         
         }
 
+        // public function edit(Request $request)
+        // {
+        //     $karyawan = DB::where('no', $request->no)->first();
+    
+        //     return view('edit')->with(compact('datakaryawan'));
+        // }
+
         public function update(Request $request)
-        {
+        {   
             // $request->
             // insert data ke table datakaryawan
-            DB::table('datakaryawan')->where('no',$request->id)->update([
+            DB::table('datakaryawan')->where('no',$request->no)->update([
             
                 'Nama' => $request->Nama,
                 'Projek' => $request->Projek,

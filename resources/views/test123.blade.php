@@ -30,7 +30,9 @@
                 <th>Projek</th>
                 <th>Software</th>
                 <th>Link CV(PDF)</th>
-                <th>Aksi</th>
+                <th>Edit</th>
+                <th>Hapus</th>
+
             </tr>
         </thead>
         <tbody>
@@ -46,10 +48,12 @@
       
       <td>
       <a href="/test123/edit/{{$data->no}}"><button type="button" class="btn btn-primary">Edit</button></a>
+      </td>  
       <p> </p>
      
+        <td>
        <a href="/test123/hapus/{{$data->no}}"><button type="button" class="btn btn-danger">Hapus</button></a> 
-      </td>           
+       </td> 
     </tr>
     @endforeach
 

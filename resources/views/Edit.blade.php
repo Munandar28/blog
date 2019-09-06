@@ -13,14 +13,15 @@
 	<br/>
 	<br/>
 
-	@foreach($karyawan as $key => $data)
+	@foreach($karyawan as $k)
 	<form action="/test123/update" method="post" enctype="multipart/form-data">
 		{{ csrf_field() }}  
 		<!-- Umur <input type="number" name="umur" required="required"> <br/> -->
-		<input type="hidden" name="no" value="{{$data->no}}"> <br/>
-		Nama <input type="text" name="Nama" required="required" value="{{$data->Nama}}"> <br/>
-		Projek <textarea name="Projek" required="required" value="{{$data->Projek}}"></textarea> <br/>
-		Software <textarea name="Software" required="required" value="{{$data->Software}}"></textarea> <br/>
+		<input type="hidden" name="no" value="{{$k->no}}"> <br/>
+		
+		Nama <input type="text" name="Nama" required="required" value="{{$k->Nama}}"> <br/>
+		Projek <textarea name="Projek" required="required" value="{{$k->Projek}}"></textarea> <br/>
+		Software <textarea name="Software" required="required" value="{{$k->Software}}"></textarea> <br/>
   
         
 

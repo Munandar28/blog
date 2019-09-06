@@ -29,6 +29,6 @@ Route::get('/cv/tambah','PageController@tambah');
 
 // route store data ke db dan CRUD
 Route::post('/test123/store','PageController@store');
-Route::post('/test123/update','PageController@edit');   
 Route::get('/test123/edit/{id}','PageController@edit');
+Route::post('/test123/update','PageController@update');   
 Route::get('/test123/hapus/{id}','PageController@hapus');
