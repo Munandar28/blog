@@ -20,7 +20,7 @@ class SignInController extends Controller
     public function auth(Request $request)
     {
         // cari user sesuai email
-        $user = User::where('email', $request->email);
+        $user = User::where('email', $request->email);       
         // cek user ada atau tidak
         if ($user->count() != 0) {
             $user = User::where('email', $request->email)->first();
@@ -33,7 +33,13 @@ class SignInController extends Controller
             Session::put('isLoggedIn', true);
             Session::put('userId', $user->id);
             Session::put('userName', $user->name);
-            return redirect()->route('cv');
+
+            if ($user->role == 'admin') {
+                return redirect()->route('admin');
+            }else{
+                return redirect()->route('cv');
+            }
+            
         } else {
             // kalau password salah redirect ke signin lagi
             return redirect()->route('signin');
