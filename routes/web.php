@@ -24,11 +24,11 @@ Route::post('/auth', 'SignInController@auth')->name('auth');
 // route view cv dan portfolio
 Route::get('/cv', 'PageController@cv')->name('cv');
 Route::get('/portfolio', 'PageController@portfolio')->name('portfolio');
-Route::get('/test123','PageController@test123')->name('test123');
+Route::get('/admin','PageController@admin')->name('admin');
 Route::get('/cv/tambah','PageController@tambah');
 
 // route store data ke db dan CRUD
-Route::post('/test123/store','PageController@store');
-Route::get('/test123/edit/{id}','PageController@edit');
-Route::post('/test123/update','PageController@update');   
-Route::get('/test123/hapus/{id}','PageController@hapus');
+Route::post('/admin/store','PageController@store');
+Route::get('/admin/edit/{id}','PageController@edit');
+Route::post('/admin/update','PageController@update');   
+Route::get('/admin/hapus/{id}','PageController@hapus');

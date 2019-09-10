@@ -8,13 +8,13 @@
 	
 	<h3>Data Karyawan</h3>
 
-	<a href="/test123"> Kembali</a>
+	<a href="/admin"> Kembali</a>
 	
 	<br/>
 	<br/>
 
 	@foreach($karyawan as $key => $data)
-	<form action="/test123/update" method="post" enctype="multipart/form-data">
+	<form action="/admin/update" method="post" enctype="multipart/form-data">
 		{{ csrf_field() }}  
 		<!-- Umur <input type="number" name="umur" required="required"> <br/> -->
 		<input type="hidden" name="no" value="{{$data->no}}"> <br/>

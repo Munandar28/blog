@@ -19,13 +19,13 @@ class PageController extends Controller
         }
     }
 
-    public function test123()
+    public function admin()
     {
         if (Session::get('isLoggedIn') == true) {
             $karyawan = DB:: table('datakaryawan')->get();
             
 
-            return view('test123',['karyawan' => $karyawan]);
+            return view('admin',['karyawan' => $karyawan]);
             
         } else {
             return redirect()->route('home');
@@ -43,15 +43,17 @@ class PageController extends Controller
                 'Software' => $request->Software
             ]);
             // alihkan halaman ke halaman pegawai
-            return redirect('/test123');
+            return redirect('/admin');
     
         }
 
      public function edit($id)
         {
             // mengambil data pegawai berdasarkan id yang dipilih
-            $karyawan = DB::table('datakaryawan')->where('no',$id)->get();
+            $karyawan = DB::table('datakaryawan')->get()->where('no',$id);
             // passing data pegawai yang didapat ke view edit.blade.php
+
+
             return view('edit',['karyawan' => $karyawan]);
         
         }
@@ -74,7 +76,7 @@ class PageController extends Controller
                 'Software' => $request->Software
             ]);
             // alihkan halaman ke halaman pegawai
-            return redirect('/test123');
+            return redirect('/admin');
     
         }
 
@@ -85,7 +87,7 @@ class PageController extends Controller
             DB::table('datakaryawan')->where('no',$id)->delete();
                 
             // alihkan halaman ke halaman pegawai
-            return redirect('/test123');
+            return redirect('/admin');
         }
 
 

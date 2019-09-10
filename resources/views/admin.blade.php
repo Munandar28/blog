@@ -47,12 +47,12 @@
       <td><a href="/assets/{{$data->Link_CV}}">Resume</a></td>      
       
       <td>
-      <a href="/test123/edit/{{$data->no}}"><button type="button" class="btn btn-primary">Edit</button></a>
+      <a href="/admin/edit/{{$data->no}}"><button type="button" class="btn btn-primary">Edit</button></a>
       </td>  
       <p> </p>
      
         <td>
-       <a href="/test123/hapus/{{$data->no}}"><button type="button" class="btn btn-danger">Hapus</button></a> 
+       <a href="/admin/hapus/{{$data->no}}"><button type="button" class="btn btn-danger">Hapus</button></a> 
        </td> 
     </tr>
     @endforeach
