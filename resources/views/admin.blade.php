@@ -11,6 +11,7 @@
     <div class="topnav">
         <a href="/cv">LIST CV</a>
         <a href="/portfolio">LIST PORTFOLIO</a>
+        <a href="/register">REGISTER</a>
         <a href="/signout">SIGN OUT</a>
      </div>
 

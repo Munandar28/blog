@@ -26,6 +26,8 @@ Route::get('/cv', 'PageController@cv')->name('cv');
 Route::get('/portfolio', 'PageController@portfolio')->name('portfolio');
 Route::get('/admin','PageController@admin')->name('admin');
 Route::get('/cv/tambah','PageController@tambah');
+Route::get('/register', 'PageController@register')->name('register');
+Route::post('/register/userstore', 'PageController@userstore');
 
 // route store data ke db dan CRUD
 Route::post('/admin/store','PageController@store');

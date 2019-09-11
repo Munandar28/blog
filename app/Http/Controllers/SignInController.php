@@ -6,6 +6,7 @@ use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Session;
 use Illuminate\Support\Facades\Hash;
 use App\User;
+use Auth;
 
 class SignInController extends Controller
 {
@@ -33,6 +34,7 @@ class SignInController extends Controller
             Session::put('isLoggedIn', true);
             Session::put('userId', $user->id);
             Session::put('userName', $user->name);
+            Auth::attempt(["email"=>$request->email,"password"=>$request->password]);
 
             if ($user->role == 'admin') {
                 return redirect()->route('admin');
@@ -50,6 +52,7 @@ class SignInController extends Controller
     // redirect ke homepage
     public function signout()
     {
+        Auth::logout();
         Session::flush();
         return redirect()->route('home');
     }
