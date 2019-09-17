@@ -70,6 +70,13 @@ body{ padding: 20px; }
     <li class="nav-item">
       <a class="nav-link active" data-toggle="pill" href="/portfolio">LIST PORTFOLIO</a>
     </li>
+    @auth
+    @if(Auth::user()->role == 'admin')
+    <li class="nav-item">
+      <a class="nav-link " data-toggle="pill" href="/admin">ADMIN</a>
+    </li>
+    @endif
+    @endauth
     <li class="nav-item">
       <a class="nav-link" data-toggle="pill" href="/signout">SIGN OUT</a>
     </li>
