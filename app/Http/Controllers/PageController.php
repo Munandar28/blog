@@ -32,9 +32,11 @@ class PageController extends Controller
         {
             if (Session::get('isLoggedIn') == true) {
                 $karyawan = DB:: table('datakaryawan')->get();
+
+                $kerja = DB::table('magang_kerja')->get();
                 
 
-                return view('admin',['karyawan' => $karyawan]);
+                return view('admin',['karyawan' => $karyawan , 'kerja' => $kerja]);
                 
             } else {
                 return redirect()->route('home');
@@ -87,6 +89,13 @@ class PageController extends Controller
         {
             // insert data ke table datakaryawan
             DB::table('datakaryawan')->insert([
+            
+                'Nama' => $request->Nama,
+                'Projek' => $request->Projek,
+                'Software' => $request->Software
+            ]);
+
+            DB::table('magang_kerja')->insert([
             
                 'Nama' => $request->Nama,
                 'Projek' => $request->Projek,

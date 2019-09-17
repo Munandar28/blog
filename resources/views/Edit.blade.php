@@ -35,15 +35,31 @@
 		{{ csrf_field() }}  
 		<!-- Umur <input type="number" name="umur" required="required"> <br/> -->
 		<input type="hidden" name="no" value="{{$k->no}}"> <br/>
-		
-		Nama <input type="text" name="Nama" required="required" value="{{$k->Nama}}"> <br/>
-		<br>
-		<!-- Projek <input type="text" name="Projek" required="required" value="{{$k->Projek}}"> <br/>	 -->
-		<br>
-		Projek <textarea name="Projek" rows="10" columns="70"  required="required">{{$k->Projek}}</textarea> <br/>
 
-		<!-- Projek <textarea name="Projek" required="required" value="{{$k->Projek}}"></textarea> <br/>		 -->
-		Software <textarea name="Software" rows="10" columns="70" required="required">{{$k->Software}}</textarea> <br/>
+				<div class="form-group">
+					<label for="Nama">Nama Karyawan:</label>
+					<input type="Nama" class="form-control"  name="Nama" required="required" value="{{$k->Nama}}" >
+				</div> 
+
+		<!-- Nama <input type="text" name="Nama" required="required" value="{{$k->Nama}}"> <br/> -->
+		<br>
+		
+				<div class="form-group">
+					<label for="Projek">Projek yang dikerjakan:</label>
+					<textarea class="form-control" rows="5" id="Projek"  name="Projek" required="required" ">{{$k->Projek}}</textarea>
+				</div>
+
+		<!-- Projek <textarea name="Projek" rows="10" columns="70" required="required">{{$k->Projek}}</textarea> <br/> -->
+
+		
+
+				<br>
+				<div class="form-group">
+					<label for="Software">Software yang digunakan:</label>
+					<textarea class="form-control" rows="5" id="Software" name="Software" required="required" ">{{$k->Software}}</textarea>
+				</div>
+
+		<!-- Software <textarea name="Software" rows="10" columns="70" required="required">{{$k->Software}}</textarea> <br/> -->
   
        
 		
@@ -62,7 +78,7 @@
 
 							<div class="form-group">
                                 <div class="col-md-6 col-md-offset-4">
-                                    <button type="submit" class="btn btn-primary">
+                                    <button type="submit" class="btn btn-primary btn-block">
                                         Edit Data
                                     </button>
                                 </div>

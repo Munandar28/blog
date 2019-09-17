@@ -43,7 +43,20 @@
     <tr>    
       <!-- <td>{{$data->no}}</td> -->
       <td>{{$data->Nama}}</td>
-      <td>{{$data->Projek}}</td>
+      <td>
+      <select name="color4" size="5" multiple style="width:'100%'">
+        @foreach($kerja as $key => $item)
+         @if ($item->no_karyawan === $data->no)
+        <option value="white">{{$item->project_nama}} </option>
+        @endif
+        <!-- <option value="white">dsldskldsk</option>
+        <option value="white">dsldskldsk</option>
+        <option value="white">dsldskldsk</option>
+        <option value="white">dsldskldsk</option>
+        <option value="white">dsldskldsk</option> -->
+        @endforeach
+    </select>
+      </td>
       <td>{{$data->Software}}</td>
       <td><a href="/assets/{{$data->Link_CV}}">Resume</a></td>      
       
